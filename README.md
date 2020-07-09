@@ -14,6 +14,17 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 
 ## Algorithms
 
+* Array
+* String
+* Linked List
+* Stack
+* Queue
+* Tree
+* Binary Search
+* Breadth-First Search
+* Depth-First Search
+* Dynamic Programming
+
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
