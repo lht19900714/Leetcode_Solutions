@@ -33,9 +33,9 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 
 
 ## Array
-|  #  | Title           |  Solution       | Difficulty    | Tag          | Note| 
-|-----|---------------- | --------------- | ------------- |--------------|-----|
-
+|  #  | Title             |  Solution        | Difficulty     | Tag           |  Note| 
+|-----|------------------ | ---------------- | -------------- |---------------|------|
+<!---0000 | TEST             | TEST        | TEST     | TEST           | TEST--->
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
