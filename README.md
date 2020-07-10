@@ -31,3 +31,105 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 </div>
 <br/>
 
+
+## Array
+|  #  | Title           |  Solution       | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | ------------- |--------------|-----|
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+## String
+|  #  | Title           |  Solution       | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | ------------- |--------------|-----|
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+## Linked List
+|  #  | Title           |  Solution       | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | ------------- |--------------|-----|
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+## Stack
+|  #  | Title           |  Solution       | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | ------------- |--------------|-----|
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+## Queue
+|  #  | Title           |  Solution       | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | ------------- |--------------|-----|
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+## Tree
+|  #  | Title           |  Solution       | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | ------------- |--------------|-----|
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+## Binary Search
+|  #  | Title           |  Solution       | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | ------------- |--------------|-----|
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+## Breadth-First Search
+|  #  | Title           |  Solution       | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | ------------- |--------------|-----|
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+## Depth-First Search
+|  #  | Title           |  Solution       | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | ------------- |--------------|-----|
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+## Dynamic Programming
+|  #  | Title           |  Solution       | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | ------------- |--------------|-----|
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+
