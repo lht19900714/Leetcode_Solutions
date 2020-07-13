@@ -15,6 +15,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 ## Algorithms
 
 * Array
+* [Hash Table](https://github.com/lht19900714/Leetcode_Python#hash-table)
 * String
 * Linked List
 * Stack
@@ -36,6 +37,16 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 |  #  | Title             |  Solution        | Difficulty     | Tag           |  Note| 
 |-----|------------------ | ---------------- | -------------- |---------------|------|
 <!---0000 | TEST             | TEST        | TEST     | TEST           | TEST--->
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+## Hash Table
+|  #  | Title             |  Solution        | Difficulty     | Tag           |  Note| 
+|-----|------------------ | ---------------- | -------------- |---------------|------|
+0001 | [Two Sum](https://leetcode.com/problems/two-sum/)              | [Python](./Algorithms/Python/0100_Two_Sum)          | Easy     |            | 
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
