@@ -20,7 +20,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 * Linked List
 * Stack
 * Queue
-* Tree
+* [Tree](https://github.com/lht19900714/Leetcode_Python#tree)
 * Binary Search
 * Breadth-First Search
 * Depth-First Search
@@ -46,7 +46,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 ## Hash Table
 |  #  | Title             |  Solution        | Difficulty     | Tag           |  Note| 
 |-----|------------------ | ---------------- | -------------- |---------------|------|
-0001 | [Two Sum](https://leetcode.com/problems/two-sum/)              | [Python](./Algorithms/Python/0100_Two_Sum)          | Easy     |            | 
+0001 | [Two Sum](https://leetcode.com/problems/two-sum/)              | [Python](./Algorithms/Python/0001_Two_Sum)          | Easy     |            | 
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
@@ -96,7 +96,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 ## Tree
 |  #  | Title           |  Solution       | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | ------------- |--------------|-----|
-
+0100 | [Same Tree](https://leetcode.com/problems/same-tree/)              | [Python](./Algorithms/Python/0100_Same_Tree)          | Easy     |BFS            | 
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
