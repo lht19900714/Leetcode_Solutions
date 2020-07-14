@@ -96,7 +96,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 ## Tree
 |  #  | Title           |  Solution       | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | ------------- |--------------|-----|
-0100 | [Same Tree](https://leetcode.com/problems/same-tree/)              | [Python](./Algorithms/Python/0100_Same_Tree)          | Easy     |BFS            | 
+0100 | [Same Tree](https://leetcode.com/problems/same-tree/)              | [Python](./Algorithms/Python/0100_Same_Tree)          | Easy     |           |BFS  
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
