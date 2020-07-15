@@ -15,6 +15,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 ## Algorithms
 
 * Array
+* [Math](https://github.com/lht19900714/Leetcode_Python#math)
 * [Hash Table](https://github.com/lht19900714/Leetcode_Python#hash-table)
 * String
 * Linked List
@@ -37,6 +38,16 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 |  #  | Title             |  Solution        | Difficulty     | Tag           |  Note| 
 |-----|------------------ | ---------------- | -------------- |---------------|------|
 <!---0000 | TEST             | TEST        | TEST     | TEST           | TEST--->
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+## Math
+|  #  | Title             |  Solution        | Difficulty     | Tag           |  Note| 
+|-----|------------------ | ---------------- | -------------- |---------------|------|
+1344 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/)              | [Python](./Algorithms/Python/1344_Angle_Between_Hands_of_a_Clock)          | Medium    |            | 
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
