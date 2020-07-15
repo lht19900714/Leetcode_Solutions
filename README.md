@@ -47,7 +47,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 ## Math
 |  #  | Title             |  Solution        | Difficulty     | Tag           |  Note| 
 |-----|------------------ | ---------------- | -------------- |---------------|------|
-1344 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/)              | [Python](./Algorithms/Python/1344_Angle_Between_Hands_of_a_Clock)          | Medium    |            | 
+1344 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | [Python](./Algorithms/Python/1344_Angle_Between_Hands_of_a_Clock) | **<font color=#F0AD4E>Medium</font>**  |            | 
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
@@ -57,7 +57,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 ## Hash Table
 |  #  | Title             |  Solution        | Difficulty     | Tag           |  Note| 
 |-----|------------------ | ---------------- | -------------- |---------------|------|
-0001 | [Two Sum](https://leetcode.com/problems/two-sum/)              | [Python](./Algorithms/Python/0001_Two_Sum)          | Easy     |            | 
+0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./Algorithms/Python/0001_Two_Sum)| **<font color=#5CB85C>Easy</font>**   |            | 
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
@@ -107,7 +107,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 ## Tree
 |  #  | Title           |  Solution       | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | ------------- |--------------|-----|
-0100 | [Same Tree](https://leetcode.com/problems/same-tree/)              | [Python](./Algorithms/Python/0100_Same_Tree)          | Easy     |           |BFS  
+0100 | [Same Tree](https://leetcode.com/problems/same-tree/)              | [Python](./Algorithms/Python/0100_Same_Tree)          | **<font color=#5CB85C>Easy</font>**     |           |BFS  
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
