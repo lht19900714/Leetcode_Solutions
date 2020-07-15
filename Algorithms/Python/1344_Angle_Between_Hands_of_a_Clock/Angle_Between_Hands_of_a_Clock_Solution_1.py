@@ -1,3 +1,7 @@
+
+# Space: O(1)
+# Time: O(1)
+
 class Solution:
     def angleClock(self, hour: int, minutes: int) -> float:
         # calculate minute degree from 0 to current minute
@@ -6,3 +10,5 @@ class Solution:
         hour_degree = (30 * hour + (minutes / 60) * 30) % 360
         res = abs(minutes_degree - hour_degree)
         return res if res <= 180 else 360 - res
+
+
