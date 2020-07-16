@@ -17,7 +17,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 * Array
 * [Math](https://github.com/lht19900714/Leetcode_Python#math)
 * [Hash Table](https://github.com/lht19900714/Leetcode_Python#hash-table)
-* String
+* [String](https://github.com/lht19900714/Leetcode_Python#string)
 * Linked List
 * Stack
 * Queue
@@ -67,7 +67,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 ## String
 |  #  | Title           |  Solution       | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | ------------- |--------------|-----|
-
+0151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Python](./Algorithms/Python/0151_Reverse_Words_in_a_String)| <font color=#F0AD4E>Medium</font>   |            | 
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
