@@ -25,7 +25,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 * Binary Search
 * Breadth-First Search
 * Depth-First Search
-* Dynamic Programming
+* [Dynamic Programming](https://github.com/lht19900714/Leetcode_Python#dynamic-programming)
 
 <br/>
 <div align="right">
@@ -147,7 +147,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 ## Dynamic Programming
 |  #  | Title           |  Solution       | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | ------------- |--------------|-----|
-
+1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Python](./Algorithms/Python/1143_Longest_Common_Subsequence) | <font color=#F0AD4E>Medium</font>  |            | 
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
