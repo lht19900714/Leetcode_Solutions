@@ -58,6 +58,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 |  #  | Title             |  Solution        | Difficulty     | Tag           |  Note| 
 |-----|------------------ | ---------------- | -------------- |---------------|------|
 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./Algorithms/Python/0001_Two_Sum)| <font color=#5CB85C>Easy</font>   |            | 
+0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Python](./Algorithms/Python/0347_Top_K_Frequent_Elements)| <font color=#F0AD4E>Medium</font>    |            | Heap
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
