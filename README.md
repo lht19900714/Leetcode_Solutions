@@ -23,7 +23,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 * Queue
 * [Tree](https://github.com/lht19900714/Leetcode_Python#tree)
 * Binary Search
-* Breadth-First Search
+* [Breadth-First Search](https://github.com/lht19900714/Leetcode_Python#breadth-first-search)
 * Depth-First Search
 * [Dynamic Programming](https://github.com/lht19900714/Leetcode_Python#dynamic-programming)
 
@@ -128,7 +128,8 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 ## Breadth-First Search
 |  #  | Title           |  Solution       | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | ------------- |--------------|-----|
-
+0207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Python](./Algorithms/Python/0207_Course_Schedule)|<font color=#F0AD4E>Medium</font>|  |Topological Ordering 
+0210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Python](./Algorithms/Python/0210_Course_Schedule_II)|<font color=#F0AD4E>Medium</font>|  |Topological Ordering 
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
