@@ -14,17 +14,17 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 
 ## Algorithms
 
-* Array
+* [Array](https://github.com/lht19900714/Leetcode_Python#array)
 * [Math](https://github.com/lht19900714/Leetcode_Python#math)
 * [Hash Table](https://github.com/lht19900714/Leetcode_Python#hash-table)
 * [String](https://github.com/lht19900714/Leetcode_Python#string)
-* Linked List
-* Stack
-* Queue
+* [Linked List](https://github.com/lht19900714/Leetcode_Python#linked-list)
+* [Stack](https://github.com/lht19900714/Leetcode_Python#stack)
+* [Queue](https://github.com/lht19900714/Leetcode_Python#queue)
 * [Tree](https://github.com/lht19900714/Leetcode_Python#tree)
-* Binary Search
+* [Binary Search](https://github.com/lht19900714/Leetcode_Python#binary-search)
 * [Breadth-First Search](https://github.com/lht19900714/Leetcode_Python#breadth-first-search)
-* Depth-First Search
+* [Depth-First Search](https://github.com/lht19900714/Leetcode_Python#depth-first-search)
 * [Dynamic Programming](https://github.com/lht19900714/Leetcode_Python#dynamic-programming)
 
 <br/>
@@ -59,6 +59,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 |-----|------------------ | ---------------- | -------------- |---------------|------|
 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./Algorithms/Python/0001_Two_Sum)| <font color=#5CB85C>Easy</font>   |            | 
 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Python](./Algorithms/Python/0347_Top_K_Frequent_Elements)| <font color=#F0AD4E>Medium</font>    |            | Heap
+0076 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Python](./Algorithms/Python/0076_Minimum_Window_Substring)| <font color=#D9534F>Hard</font>   |            | Sliding Window
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
