@@ -60,6 +60,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./Algorithms/Python/0001_Two_Sum)| <font color=#5CB85C>Easy</font>   |            | 
 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Python](./Algorithms/Python/0347_Top_K_Frequent_Elements)| <font color=#F0AD4E>Medium</font>    |            | Heap
 0076 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Python](./Algorithms/Python/0076_Minimum_Window_Substring)| <font color=#D9534F>Hard</font>   |            | Sliding Window
+0146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Python](./Algorithms/Python/0146_LRU_Cache)| <font color=#F0AD4E>Medium</font>  |            | 
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
