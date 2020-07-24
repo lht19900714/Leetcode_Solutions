@@ -37,7 +37,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 ## Array
 |  #  | Title             |  Solution        | Difficulty     | Tag           |  Note| 
 |-----|------------------ | ---------------- | -------------- |---------------|------|
-<!---0000 | TEST             | TEST        | TEST     | TEST           | TEST--->
+0260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | [Python](./Algorithms/Python/0260_Single_Number_III) | <font color=#F0AD4E>Medium</font>  |  | 
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
@@ -47,7 +47,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 ## Math
 |  #  | Title             |  Solution        | Difficulty     | Tag           |  Note| 
 |-----|------------------ | ---------------- | -------------- |---------------|------|
-1344 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | [Python](./Algorithms/Python/1344_Angle_Between_Hands_of_a_Clock) | <font color=#F0AD4E>Medium</font>  |            | 
+1344 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | [Python](./Algorithms/Python/1344_Angle_Between_Hands_of_a_Clock) | <font color=#F0AD4E>Medium</font>  | | 
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
