@@ -41,6 +41,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Python](./Algorithms/Python/0153_Find_Minimum_in_Rotated_Sorted_Array) |<font color=#F0AD4E>Medium</font> |  | Binary Search
 0154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Python](./Algorithms/Python/0154_Find_Minimum_in_Rotated_Sorted_Array_II) |<font color=#D9534F>Hard</font>|  | Binary Search
 0260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | [Python](./Algorithms/Python/0260_Single_Number_III) | <font color=#F0AD4E>Medium</font>  |  | 
+0621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [Python](./Algorithms/Python/0621_Task_Scheduler) | <font color=#F0AD4E>Medium</font>  |  | Math
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
@@ -51,6 +52,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 ## Binary Search
 |  #  | Title           |  Solution       | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | ------------- |--------------|-----|
+0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)| [Python](./Algorithms/Python/0034_Find_First_and_Last_Position_of_Element_in_Sorted_Array) |<font color=#F0AD4E>Medium</font> | |  
 
 <br/>
 <div align="right">
