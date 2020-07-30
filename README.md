@@ -84,6 +84,8 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 ## Dynamic Programming
 |  #  | Title           |  Solution       | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | ------------- |--------------|-----|
+0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./Algorithms/Python/0121_Best_Time_to_Buy_and_Sell_Stock) | <font color=#5CB85C>Easy</font>   | | 
+0309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Python](./Algorithms/Python/0309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown) | <font color=#F0AD4E>Medium</font>  | | 
 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Python](./Algorithms/Python/1143_Longest_Common_Subsequence) | <font color=#F0AD4E>Medium</font>  | | 
 <br/>
 <div align="right">
@@ -104,7 +106,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 ## Hash Table
 |  #  | Title             |  Solution        | Difficulty     | Tag           |  Note| 
 |-----|------------------ | ---------------- | -------------- |---------------|------|
-0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./Algorithms/Python/0001_Two_Sum)| <font color=#5CB85C>Easy</font>   | | 
+0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./Algorithms/Python/0001_Two_Sum)| <font color=#5CB85C>Easy</font> | | 
 0076 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Python](./Algorithms/Python/0076_Minimum_Window_Substring)| <font color=#D9534F>Hard</font>| | Sliding Window
 0146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Python](./Algorithms/Python/0146_LRU_Cache)| <font color=#F0AD4E>Medium</font>  | | 
 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Python](./Algorithms/Python/0347_Top_K_Frequent_Elements)| <font color=#F0AD4E>Medium</font> | | Heap
