@@ -84,9 +84,10 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 ## Dynamic Programming
 |  #  | Title           |  Solution       | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | ------------- |--------------|-----|
+0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](./Algorithms/Python/0070_Climbing_Stairs) |<font color=#5CB85C>Easy</font> | | Recursion with Memoization 
 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./Algorithms/Python/0121_Best_Time_to_Buy_and_Sell_Stock) | <font color=#5CB85C>Easy</font>   | | 
-0139 | [Word Break](https://leetcode.com/problems/word-break/) | [Python](./Algorithms/Python/0139_Word_Break) |<font color=#F0AD4E>Medium</font> | | Recursion with Memory 
-0140 | [Word Break II](https://leetcode.com/problems/word-break-ii/) | [Python](./Algorithms/Python/0140_Word_Break_II) |<font color=#D9534F>Hard</font> | | Recursion with Memory 
+0139 | [Word Break](https://leetcode.com/problems/word-break/) | [Python](./Algorithms/Python/0139_Word_Break) |<font color=#F0AD4E>Medium</font> | | Recursion with Memoization
+0140 | [Word Break II](https://leetcode.com/problems/word-break-ii/) | [Python](./Algorithms/Python/0140_Word_Break_II) |<font color=#D9534F>Hard</font> | | Recursion with Memoization
 0309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Python](./Algorithms/Python/0309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown) | <font color=#F0AD4E>Medium</font>  | | 
 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Python](./Algorithms/Python/1143_Longest_Common_Subsequence) | <font color=#F0AD4E>Medium</font>  | | 
 <br/>
@@ -121,7 +122,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 ## Linked List
 |  #  | Title           |  Solution       | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | ------------- |--------------|-----|
-
+0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](./Algorithms/Python/0206_Reverse_Linked_List)| <font color=#5CB85C>Easy</font> | | 
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
