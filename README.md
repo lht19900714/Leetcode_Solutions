@@ -142,6 +142,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 ## Queue
 |  #  | Title           |  Solution       | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | ------------- |--------------|-----|
+0622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | [Python](./Algorithms/Python/0622_Design_Circular_Queue)|<font color=#F0AD4E>Medium</font> | | 
 
 <br/>
 <div align="right">
@@ -163,6 +164,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 ## Stack
 |  #  | Title           |  Solution       | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | ------------- |--------------|-----|
+0735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | [Python](./Algorithms/Python/0735_Asteroid_Collision)| <font color=#F0AD4E>Medium</font>   |            | 
 
 <br/>
 <div align="right">
