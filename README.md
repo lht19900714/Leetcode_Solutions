@@ -52,6 +52,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 ## Binary Search
 |  #  | Title           |  Solution       | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | ------------- |--------------|-----|
+0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| [Python](./Algorithms/Python/0033_Search_in_Rotated_Sorted_Array) |<font color=#F0AD4E>Medium</font> | |  
 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)| [Python](./Algorithms/Python/0034_Find_First_and_Last_Position_of_Element_in_Sorted_Array) |<font color=#F0AD4E>Medium</font> | |  
 
 <br/>
@@ -75,6 +76,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 |  #  | Title           |  Solution       | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | ------------- |--------------|-----|
 0079 | [Word Search](https://leetcode.com/problems/word-search/) | [Python](./Algorithms/Python/0079_Word_Search)|<font color=#F0AD4E>Medium</font>|  |
+0200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python](./Algorithms/Python/0200_Number_of_Islands)|<font color=#F0AD4E>Medium</font>|  |DFS/BFS
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
