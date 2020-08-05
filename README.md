@@ -101,6 +101,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 ## Graph
 |  #  | Title           |  Solution       | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | ------------- |--------------|-----|
+0332 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | [Python](./Algorithms/Python/0332_Reconstruct_Itinerary) | <font color=#F0AD4E>Medium</font> | |DFS
 0797 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | [Python](./Algorithms/Python/0797_All_Paths_From_Source_to_Target) | <font color=#F0AD4E>Medium</font> | | BFS/DFS
 <br/>
 <div align="right">
