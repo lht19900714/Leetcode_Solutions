@@ -184,6 +184,8 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)| [Python](./Algorithms/Python/0103_Binary_Tree_Zigzag_Level_Order_Traversal) | <font color=#F0AD4E>Medium</font>  | |BFS  
 0105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)| [Python](./Algorithms/Python/0105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal) |<font color=#F0AD4E>Medium</font> | |  
 0106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)| [Python](./Algorithms/Python/0106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal) |<font color=#F0AD4E>Medium</font> | |  
+0208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)| [Python](./Algorithms/Python/0208_Implement_Trie_(Prefix_Tree)) |<font color=#F0AD4E>Medium</font> | |  
+0211 | [Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)| [Python](./Algorithms/Python/0211_Add_and_Search_Word_-_Data_structure_design) |<font color=#F0AD4E>Medium</font> | |  
 
 <br/>
 <div align="right">
