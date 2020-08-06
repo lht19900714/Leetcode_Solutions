@@ -125,7 +125,9 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 ## Linked List
 |  #  | Title           |  Solution       | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | ------------- |--------------|-----|
+0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](./Algorithms/Python/0002_Add_Two_Numbers)| <font color=#F0AD4E>Medium</font> | | 
 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](./Algorithms/Python/0206_Reverse_Linked_List)| <font color=#5CB85C>Easy</font> | | 
+0445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [Python](./Algorithms/Python/0445_Add_Two_Numbers_II)| <font color=#F0AD4E>Medium</font> | | 
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
