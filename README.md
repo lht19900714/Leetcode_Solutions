@@ -162,6 +162,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 |  #  | Title           |  Solution       | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | ------------- |--------------|-----|
 0151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Python](./Algorithms/Python/0151_Reverse_Words_in_a_String)| <font color=#F0AD4E>Medium</font>   |            | 
+0556 | [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | [Python](./Algorithms/Python/0556_Next_Greater_Element_III) | <font color=#F0AD4E>Medium</font>  |  |
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
@@ -172,7 +173,10 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 ## Stack
 |  #  | Title           |  Solution       | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | ------------- |--------------|-----|
-0735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | [Python](./Algorithms/Python/0735_Asteroid_Collision)| <font color=#F0AD4E>Medium</font>   |            | 
+0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Python](./Algorithms/Python/0496_Next_Greater_Element_I)| <font color=#5CB85C>Easy</font>   |  | 
+0503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [Python](./Algorithms/Python/0503_Next_Greater_Element_II)| <font color=#F0AD4E>Medium</font>   |  | 
+0735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | [Python](./Algorithms/Python/0735_Asteroid_Collision)| <font color=#F0AD4E>Medium</font>   |  | 
+0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Python](./Algorithms/Python/0739_Daily_Temperatures)| <font color=#F0AD4E>Medium</font>   |  | 
 
 <br/>
 <div align="right">
