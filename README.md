@@ -24,6 +24,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 * [Linked List](https://github.com/lht19900714/Leetcode_Python#linked-list)
 * [Math](https://github.com/lht19900714/Leetcode_Python#math)
 * [Queue](https://github.com/lht19900714/Leetcode_Python#queue)
+* [Recursion](https://github.com/lht19900714/Leetcode_Python#recursion)
 * [String](https://github.com/lht19900714/Leetcode_Python#string)
 * [Stack](https://github.com/lht19900714/Leetcode_Python#stack)
 * [Tree](https://github.com/lht19900714/Leetcode_Python#tree)
@@ -161,7 +162,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 ## String
 |  #  | Title           |  Solution       | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | ------------- |--------------|-----|
-0151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Python](./Algorithms/Python/0151_Reverse_Words_in_a_String)| <font color=#F0AD4E>Medium</font>   |            | 
+0151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Python](./Algorithms/Python/0151_Reverse_Words_in_a_String)| <font color=#F0AD4E>Medium</font>   | | 
 0556 | [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | [Python](./Algorithms/Python/0556_Next_Greater_Element_III) | <font color=#F0AD4E>Medium</font>  |  |
 <br/>
 <div align="right">
@@ -169,6 +170,17 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 </div>
 <br/>
 
+## Recursion 
+|  #  | Title           |  Solution       | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | ------------- |--------------|-----|
+0046 | [Permutations](https://leetcode.com/problems/permutations/) | [Python](./Algorithms/Python/0046_Permutations)| <font color=#F0AD4E>Medium</font>   |  | Backtracking/DFS
+0047 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | [Python](./Algorithms/Python/0047_Permutations_II)| <font color=#F0AD4E>Medium</font>   |  | Backtracking/DFS
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
 
 ## Stack
 |  #  | Title           |  Solution       | Difficulty    | Tag          | Note| 
