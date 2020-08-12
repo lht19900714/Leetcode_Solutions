@@ -159,17 +159,6 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 </div>
 <br/>
 
-## String
-|  #  | Title           |  Solution       | Difficulty    | Tag          | Note| 
-|-----|---------------- | --------------- | ------------- |--------------|-----|
-0151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Python](./Algorithms/Python/0151_Reverse_Words_in_a_String)| <font color=#F0AD4E>Medium</font>   | | 
-0556 | [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | [Python](./Algorithms/Python/0556_Next_Greater_Element_III) | <font color=#F0AD4E>Medium</font>  |  |
-<br/>
-<div align="right">
-    <b><a href="#algorithms">⬆️ Back to Top</a></b>
-</div>
-<br/>
-
 ## Recursion 
 |  #  | Title           |  Solution       | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | ------------- |--------------|-----|
@@ -181,6 +170,21 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
 </div>
 <br/>
+
+## String
+|  #  | Title           |  Solution       | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | ------------- |--------------|-----|
+0151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Python](./Algorithms/Python/0151_Reverse_Words_in_a_String)| <font color=#F0AD4E>Medium</font>   | | 
+0556 | [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | [Python](./Algorithms/Python/0556_Next_Greater_Element_III) | <font color=#F0AD4E>Medium</font>  |  |
+0567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Python](./Algorithms/Python/0567_Permutation_in_String) | <font color=#F0AD4E>Medium</font>  |  |Sliding Window <br> Two Pointer
+
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
 
 ## Stack
 |  #  | Title           |  Solution       | Difficulty    | Tag          | Note| 
