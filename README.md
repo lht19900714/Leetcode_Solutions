@@ -167,6 +167,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 |-----|---------------- | --------------- | ------------- |--------------|-----|
 0046 | [Permutations](https://leetcode.com/problems/permutations/) | [Python](./Algorithms/Python/0046_Permutations)| <font color=#F0AD4E>Medium</font>   |  | Backtracking/DFS
 0047 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | [Python](./Algorithms/Python/0047_Permutations_II)| <font color=#F0AD4E>Medium</font>   |  | Backtracking/DFS
+0047 | [Combinations](https://leetcode.com/problems/combinations/) | [Python](./Algorithms/Python/0077_Combinations)| <font color=#F0AD4E>Medium</font>   |  | Backtracking/DFS
 
 <br/>
 <div align="right">
