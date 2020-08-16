@@ -95,6 +95,8 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 |-----|---------------- | --------------- | ------------- |--------------|-----|
 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](./Algorithms/Python/0070_Climbing_Stairs) |<font color=#5CB85C>Easy</font> | | Recursion with Memoization 
 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./Algorithms/Python/0121_Best_Time_to_Buy_and_Sell_Stock) | <font color=#5CB85C>Easy</font>   | | 
+0122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python](./Algorithms/Python/0122_Best_Time_to_Buy_and_Sell_Stock_II) | <font color=#5CB85C>Easy</font> | |
+0123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [Python](./Algorithms/Python/0123_Best_Time_to_Buy_and_Sell_Stock_III) | <font color=#D9534F>Hard</font> | |
 0139 | [Word Break](https://leetcode.com/problems/word-break/) | [Python](./Algorithms/Python/0139_Word_Break) |<font color=#F0AD4E>Medium</font> | | Recursion with Memoization
 0140 | [Word Break II](https://leetcode.com/problems/word-break-ii/) | [Python](./Algorithms/Python/0140_Word_Break_II) |<font color=#D9534F>Hard</font> | | Recursion with Memoization
 0309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Python](./Algorithms/Python/0309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown) | <font color=#F0AD4E>Medium</font>  | | 
