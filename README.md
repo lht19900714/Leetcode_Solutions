@@ -45,6 +45,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Python](./Algorithms/Python/0153_Find_Minimum_in_Rotated_Sorted_Array) |<font color=#F0AD4E>Medium</font> |  | Binary Search
 0154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Python](./Algorithms/Python/0154_Find_Minimum_in_Rotated_Sorted_Array_II) |<font color=#D9534F>Hard</font>|  | Binary Search
 0260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | [Python](./Algorithms/Python/0260_Single_Number_III) | <font color=#F0AD4E>Medium</font>  |  | 
+0435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Python](./Algorithms/Python/0435_Non-overlapping_Intervals) | <font color=#F0AD4E>Medium</font>  |  | Stack/Greedy
 0621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [Python](./Algorithms/Python/0621_Task_Scheduler) | <font color=#F0AD4E>Medium</font>  |  | Math
 
 <br/>
