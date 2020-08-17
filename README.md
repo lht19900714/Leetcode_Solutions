@@ -39,6 +39,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 ## Array
 |  #  | Title             |  Solution        | Difficulty     | Tag           |  Note| 
 |-----|------------------ | ---------------- | -------------- |---------------|------|
+0015 | [3Sum](https://leetcode.com/problems/3sum/) | [Python](./Algorithms/Python/0015_3Sum) |<font color=#F0AD4E>Medium</font> |  | Two Pointer
 0042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python](./Algorithms/Python/0042_Trapping_Rain_Water) |<font color=#D9534F>Hard</font> |  | Two Pointer
 0118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Python](./Algorithms/Python/0118_Pascal's_Triangle) |<font color=#5CB85C>Easy</font> |  | 
 0119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Python](./Algorithms/Python/0119_Pascal's_Triangle_II) |<font color=#5CB85C>Easy</font> |  |
@@ -93,6 +94,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 ## Dynamic Programming
 |  #  | Title           |  Solution       | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | ------------- |--------------|-----|
+0005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](./Algorithms/Python/0005_Longest_Palindromic_Substring) |<font color=#F0AD4E>Medium</font> | | Two Pointer
 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](./Algorithms/Python/0070_Climbing_Stairs) |<font color=#5CB85C>Easy</font> | | Recursion with Memoization 
 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./Algorithms/Python/0121_Best_Time_to_Buy_and_Sell_Stock) | <font color=#5CB85C>Easy</font>   | | 
 0122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python](./Algorithms/Python/0122_Best_Time_to_Buy_and_Sell_Stock_II) | <font color=#5CB85C>Easy</font> | |
@@ -200,6 +202,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 ## Stack
 |  #  | Title           |  Solution       | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | ------------- |--------------|-----|
+0056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Python](./Algorithms/Python/0056_Merge_Intervals) |<font color=#F0AD4E>Medium</font> |  | 
 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Python](./Algorithms/Python/0496_Next_Greater_Element_I)| <font color=#5CB85C>Easy</font>   |  | 
 0503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [Python](./Algorithms/Python/0503_Next_Greater_Element_II)| <font color=#F0AD4E>Medium</font>   |  | 
 0735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | [Python](./Algorithms/Python/0735_Asteroid_Collision)| <font color=#F0AD4E>Medium</font>   |  | 
