@@ -48,6 +48,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | [Python](./Algorithms/Python/0260_Single_Number_III) | <font color=#F0AD4E>Medium</font>  |  | 
 0435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Python](./Algorithms/Python/0435_Non-overlapping_Intervals) | <font color=#F0AD4E>Medium</font>  |  | Stack/Greedy
 0621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [Python](./Algorithms/Python/0621_Task_Scheduler) | <font color=#F0AD4E>Medium</font>  |  | Math
+0973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [Python](./Algorithms/Python/0973_K_Closest_Points_to_Origin) | <font color=#F0AD4E>Medium</font>  |  | Customized Sorting
 
 <br/>
 <div align="right">
@@ -61,6 +62,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 |-----|---------------- | --------------- | ------------- |--------------|-----|
 0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| [Python](./Algorithms/Python/0033_Search_in_Rotated_Sorted_Array) |<font color=#F0AD4E>Medium</font> | |  
 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)| [Python](./Algorithms/Python/0034_Find_First_and_Last_Position_of_Element_in_Sorted_Array) |<font color=#F0AD4E>Medium</font> | |  
+0295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)| [Python](./Algorithms/Python/0295_Find_Median_from_Data_Stream) |<font color=#D9534F>Hard</font> | |  
 
 <br/>
 <div align="right">
@@ -175,6 +177,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0046 | [Permutations](https://leetcode.com/problems/permutations/) | [Python](./Algorithms/Python/0046_Permutations)| <font color=#F0AD4E>Medium</font>   |  | Backtracking/DFS
 0047 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | [Python](./Algorithms/Python/0047_Permutations_II)| <font color=#F0AD4E>Medium</font>   |  | Backtracking/DFS
 0047 | [Combinations](https://leetcode.com/problems/combinations/) | [Python](./Algorithms/Python/0077_Combinations)| <font color=#F0AD4E>Medium</font>   |  | Backtracking/DFS
+0967 | [Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) | [Python](./Algorithms/Python/0967_Numbers_With_Same_Consecutive_Differences)| <font color=#F0AD4E>Medium</font>   |  | BFS/DFS/Backtracking
 1286 | [Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/) | [Python](./Algorithms/Python/1286_Iterator_for_Combination)| <font color=#F0AD4E>Medium</font>   |  | Backtracking/DFS
 
 
@@ -190,6 +193,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Python](./Algorithms/Python/0151_Reverse_Words_in_a_String)| <font color=#F0AD4E>Medium</font>   | | 
 0556 | [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | [Python](./Algorithms/Python/0556_Next_Greater_Element_III) | <font color=#F0AD4E>Medium</font>  |  |
 0567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Python](./Algorithms/Python/0567_Permutation_in_String) | <font color=#F0AD4E>Medium</font>  |  |Sliding Window <br> Two Pointer
+0763 | [Partition Labels](https://leetcode.com/problems/partition-labels/) | [Python](./Algorithms/Python/0763_Partition_Labels) | <font color=#F0AD4E>Medium</font>  |  |Two Pointer
 
 
 <br/>
