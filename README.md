@@ -143,6 +143,8 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 |-----|---------------- | --------------- | ------------- |--------------|-----|
 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](./Algorithms/Python/0002_Add_Two_Numbers)| <font color=#F0AD4E>Medium</font> | | 
 0024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Python](./Algorithms/Python/0024_Swap_Nodes_in_Pairs)| <font color=#F0AD4E>Medium</font>| | 
+0138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Python](./Algorithms/Python/0138_Copy_List_with_Random_Pointer)| <font color=#F0AD4E>Medium</font> | | 
+0143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [Python](./Algorithms/Python/0143_Reorder_List)| <font color=#F0AD4E>Medium</font> | | 
 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](./Algorithms/Python/0206_Reverse_Linked_List)| <font color=#5CB85C>Easy</font> | | 
 0445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [Python](./Algorithms/Python/0445_Add_Two_Numbers_II)| <font color=#F0AD4E>Medium</font> | | 
 <br/>
@@ -195,6 +197,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 |-----|---------------- | --------------- | ------------- |--------------|-----|
 0017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Python](./Algorithms/Python/0017_Letter_Combinations_of_a_Phone_Number)| <font color=#F0AD4E>Medium</font>   | | BFS/DFS/Backtracking
 0151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Python](./Algorithms/Python/0151_Reverse_Words_in_a_String)| <font color=#F0AD4E>Medium</font>   | | 
+0227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [Python](./Algorithms/Python/0227_Basic_Calculator_II) | <font color=#F0AD4E>Medium</font>  |  |Regex
 0556 | [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | [Python](./Algorithms/Python/0556_Next_Greater_Element_III) | <font color=#F0AD4E>Medium</font>  |  |
 0567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Python](./Algorithms/Python/0567_Permutation_in_String) | <font color=#F0AD4E>Medium</font>  |  |Sliding Window <br> Two Pointer
 0763 | [Partition Labels](https://leetcode.com/problems/partition-labels/) | [Python](./Algorithms/Python/0763_Partition_Labels) | <font color=#F0AD4E>Medium</font>  |  |Two Pointer
