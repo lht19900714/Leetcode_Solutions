@@ -241,8 +241,10 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/)| [Python](./Algorithms/Python/0113_Path_Sum_II) |<font color=#F0AD4E>Medium</font> | | BFS/DFS
 0208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)| [Python](./Algorithms/Python/0208_Implement_Trie_(Prefix_Tree)) |<font color=#F0AD4E>Medium</font> | |  
 0211 | [Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)| [Python](./Algorithms/Python/0211_Add_and_Search_Word_-_Data_structure_design) |<font color=#F0AD4E>Medium</font> | |  
+0404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)| [Python](./Algorithms/Python/0404_Sum_of_Left_Leaves) |<font color=#5CB85C>Easy</font> | |BFS/DFS
 0437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/)| [Python](./Algorithms/Python/0437_Path_Sum_III) |<font color=#F0AD4E>Medium</font> | | BFS/DFS
 0987 | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)| [Python](./Algorithms/Python/0987_Vertical_Order_Traversal_of_a_Binary_Tree) |<font color=#F0AD4E>Medium</font> | |  
+1032 | [Stream of Characters](https://leetcode.com/problems/stream-of-characters/)| [Python](./Algorithms/Python/1032_Stream_of_Characters) |<font color=#D9534F>Hard</font> | | Trie
 
 <br/>
 <div align="right">
