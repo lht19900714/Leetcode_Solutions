@@ -145,6 +145,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 |  #  | Title           |  Solution       | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | ------------- |--------------|-----|
 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](./Algorithms/Python/0002_Add_Two_Numbers)| <font color=#F0AD4E>Medium</font> | | 
+0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](./Algorithms/Python/0021_Merge_Two_Sorted_Lists)| <font color=#5CB85C>Easy</font> | | 
 0024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Python](./Algorithms/Python/0024_Swap_Nodes_in_Pairs)| <font color=#F0AD4E>Medium</font>| | 
 0138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Python](./Algorithms/Python/0138_Copy_List_with_Random_Pointer)| <font color=#F0AD4E>Medium</font> | | 
 0143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [Python](./Algorithms/Python/0143_Reorder_List)| <font color=#F0AD4E>Medium</font> | | 
@@ -184,7 +185,8 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 |-----|---------------- | --------------- | ------------- |--------------|-----|
 0046 | [Permutations](https://leetcode.com/problems/permutations/) | [Python](./Algorithms/Python/0046_Permutations)| <font color=#F0AD4E>Medium</font>   |  | Backtracking/DFS
 0047 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | [Python](./Algorithms/Python/0047_Permutations_II)| <font color=#F0AD4E>Medium</font>   |  | Backtracking/DFS
-0047 | [Combinations](https://leetcode.com/problems/combinations/) | [Python](./Algorithms/Python/0077_Combinations)| <font color=#F0AD4E>Medium</font>   |  | Backtracking/DFS
+0050 | [Pow(x,n)](https://leetcode.com/problems/powx-n/) | [Python](./Algorithms/Python/0050_Pow(x,n))| <font color=#F0AD4E>Medium</font>   |  |
+0077 | [Combinations](https://leetcode.com/problems/combinations/) | [Python](./Algorithms/Python/0077_Combinations)| <font color=#F0AD4E>Medium</font>   |  | Backtracking/DFS
 0967 | [Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) | [Python](./Algorithms/Python/0967_Numbers_With_Same_Consecutive_Differences)| <font color=#F0AD4E>Medium</font>   |  | BFS/DFS/Backtracking
 1286 | [Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/) | [Python](./Algorithms/Python/1286_Iterator_for_Combination)| <font color=#F0AD4E>Medium</font>   |  | Backtracking/DFS
 
@@ -234,7 +236,8 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 |  #  | Title           |  Solution       | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | ------------- |--------------|-----|
 0100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Python](./Algorithms/Python/0100_Same_Tree)| <font color=#5CB85C>Easy</font> | |BFS  
-0103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)| [Python](./Algorithms/Python/0103_Binary_Tree_Zigzag_Level_Order_Traversal) | <font color=#F0AD4E>Medium</font>  | |BFS  
+0103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)| [Python](./Algorithms/Python/0103_Binary_Tree_Zigzag_Level_Order_Traversal) | <font color=#F0AD4E>Medium</font>  | |BFS 
+0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [Python](./Algorithms/Python/0104_Maximum_Depth_of_Binary_Tree) | <font color=#F0AD4E>Medium</font>  | |BFS/DFS 
 0105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)| [Python](./Algorithms/Python/0105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal) |<font color=#F0AD4E>Medium</font> | |  
 0106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)| [Python](./Algorithms/Python/0106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal) |<font color=#F0AD4E>Medium</font> | |  
 0112 | [Path Sum](https://leetcode.com/problems/path-sum/)| [Python](./Algorithms/Python/0112_Path_Sum) |<font color=#5CB85C>Easy</font> | | BFS/DFS
@@ -243,6 +246,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0211 | [Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)| [Python](./Algorithms/Python/0211_Add_and_Search_Word_-_Data_structure_design) |<font color=#F0AD4E>Medium</font> | |  
 0404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)| [Python](./Algorithms/Python/0404_Sum_of_Left_Leaves) |<font color=#5CB85C>Easy</font> | |BFS/DFS
 0437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/)| [Python](./Algorithms/Python/0437_Path_Sum_III) |<font color=#F0AD4E>Medium</font> | | BFS/DFS
+0700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)| [Python](./Algorithms/Python/0700_Search_in_a_Binary_Search_Tree) |<font color=#5CB85C>Easy</font> | | BFS/DFS
 0987 | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)| [Python](./Algorithms/Python/0987_Vertical_Order_Traversal_of_a_Binary_Tree) |<font color=#F0AD4E>Medium</font> | |  
 1032 | [Stream of Characters](https://leetcode.com/problems/stream-of-characters/)| [Python](./Algorithms/Python/1032_Stream_of_Characters) |<font color=#D9534F>Hard</font> | | Trie
 
