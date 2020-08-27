@@ -235,6 +235,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 ## Tree
 |  #  | Title           |  Solution       | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | ------------- |--------------|-----|
+0095 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [Python](./Algorithms/Python/0095_Unique_Binary_Search_Trees_II)| <font color=#F0AD4E>Medium</font> | |
 0100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Python](./Algorithms/Python/0100_Same_Tree)| <font color=#5CB85C>Easy</font> | |BFS  
 0103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)| [Python](./Algorithms/Python/0103_Binary_Tree_Zigzag_Level_Order_Traversal) | <font color=#F0AD4E>Medium</font>  | |BFS 
 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [Python](./Algorithms/Python/0104_Maximum_Depth_of_Binary_Tree) | <font color=#F0AD4E>Medium</font>  | |BFS/DFS 
