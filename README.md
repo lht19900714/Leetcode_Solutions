@@ -64,6 +64,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| [Python](./Algorithms/Python/0033_Search_in_Rotated_Sorted_Array) |<font color=#F0AD4E>Medium</font> | |  
 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)| [Python](./Algorithms/Python/0034_Find_First_and_Last_Position_of_Element_in_Sorted_Array) |<font color=#F0AD4E>Medium</font> | |  
 0295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)| [Python](./Algorithms/Python/0295_Find_Median_from_Data_Stream) |<font color=#D9534F>Hard</font> | |  
+0436 | [Find Right Interval](https://leetcode.com/problems/find-right-interval/)| [Python](./Algorithms/Python/0436_Find_Right_Interval) |<font color=#F0AD4E>Medium</font> | |  
 
 <br/>
 <div align="right">
