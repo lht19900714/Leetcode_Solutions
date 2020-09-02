@@ -50,6 +50,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Python](./Algorithms/Python/0435_Non-overlapping_Intervals) | <font color=#F0AD4E>Medium</font>  |  | Stack/Greedy
 0621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [Python](./Algorithms/Python/0621_Task_Scheduler) | <font color=#F0AD4E>Medium</font>  |  | Math
 0973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [Python](./Algorithms/Python/0973_K_Closest_Points_to_Origin) | <font color=#F0AD4E>Medium</font>  |  | Customized Sorting
+0949 | [Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | [Python](./Algorithms/Python/0949_Largest_Time_for_Given_Digits) |<font color=#5CB85C>Easy</font>|  |
 
 <br/>
 <div align="right">
@@ -120,6 +121,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 |-----|---------------- | --------------- | ------------- |--------------|-----|
 0332 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | [Python](./Algorithms/Python/0332_Reconstruct_Itinerary) | <font color=#F0AD4E>Medium</font> | |DFS
 0797 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | [Python](./Algorithms/Python/0797_All_Paths_From_Source_to_Target) | <font color=#F0AD4E>Medium</font> | | BFS/DFS
+0863 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)| [Python](./Algorithms/Python/0863_All_Nodes_Distance_K_in_Binary_Tree) |<font color=#F0AD4E>Medium</font> | |
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
