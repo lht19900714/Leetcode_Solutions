@@ -48,6 +48,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | [Python](./Algorithms/Python/0260_Single_Number_III) | <font color=#F0AD4E>Medium</font>  |  | 
 0380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Python](./Algorithms/Python/0380_Insert_Delete_GetRandom_O(1)) | <font color=#F0AD4E>Medium</font>  |  | Hash Set
 0435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Python](./Algorithms/Python/0435_Non-overlapping_Intervals) | <font color=#F0AD4E>Medium</font>  |  | Stack/Greedy
+0459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | [Python](./Algorithms/Python/0459_Repeated_Substring_Pattern) |<font color=#5CB85C>Easy</font>|  |
 0621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [Python](./Algorithms/Python/0621_Task_Scheduler) | <font color=#F0AD4E>Medium</font>  |  | Math
 0973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [Python](./Algorithms/Python/0973_K_Closest_Points_to_Origin) | <font color=#F0AD4E>Medium</font>  |  | Customized Sorting
 0949 | [Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | [Python](./Algorithms/Python/0949_Largest_Time_for_Given_Digits) |<font color=#5CB85C>Easy</font>|  |
@@ -239,6 +240,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 |  #  | Title           |  Solution       | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | ------------- |--------------|-----|
 0095 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [Python](./Algorithms/Python/0095_Unique_Binary_Search_Trees_II)| <font color=#F0AD4E>Medium</font> | |
+0098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Python](./Algorithms/Python/0098_Validate_Binary_Search_Tree)| <font color=#F0AD4E>Medium</font> | |
 0100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Python](./Algorithms/Python/0100_Same_Tree)| <font color=#5CB85C>Easy</font> | |BFS  
 0103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)| [Python](./Algorithms/Python/0103_Binary_Tree_Zigzag_Level_Order_Traversal) | <font color=#F0AD4E>Medium</font>  | |BFS 
 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [Python](./Algorithms/Python/0104_Maximum_Depth_of_Binary_Tree) | <font color=#F0AD4E>Medium</font>  | |BFS/DFS 
@@ -254,6 +256,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)| [Python](./Algorithms/Python/0700_Search_in_a_Binary_Search_Tree) |<font color=#5CB85C>Easy</font> | | BFS/DFS
 0987 | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)| [Python](./Algorithms/Python/0987_Vertical_Order_Traversal_of_a_Binary_Tree) |<font color=#F0AD4E>Medium</font> | |  
 1032 | [Stream of Characters](https://leetcode.com/problems/stream-of-characters/)| [Python](./Algorithms/Python/1032_Stream_of_Characters) |<font color=#D9534F>Hard</font> | | Trie
+1305 | [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)| [Python](./Algorithms/Python/1305_All_Elements_in_Two_Binary_Search_Trees) |<font color=#F0AD4E>Medium</font>| |
 
 <br/>
 <div align="right">
