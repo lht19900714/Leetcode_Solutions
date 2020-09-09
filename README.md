@@ -137,6 +137,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./Algorithms/Python/0001_Two_Sum)| <font color=#5CB85C>Easy</font> | | 
 0076 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Python](./Algorithms/Python/0076_Minimum_Window_Substring)| <font color=#D9534F>Hard</font>| | Sliding Window
 0146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Python](./Algorithms/Python/0146_LRU_Cache)| <font color=#F0AD4E>Medium</font>  | | 
+0290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [Python](./Algorithms/Python/0290_Word_Pattern)| <font color=#5CB85C>Easy</font> | |
 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Python](./Algorithms/Python/0347_Top_K_Frequent_Elements)| <font color=#F0AD4E>Medium</font> | | Heap
 0460 | [LFU Cache](https://leetcode.com/problems/lfu-cache/) | [Python](./Algorithms/Python/0460_LFU_Cache)| <font color=#D9534F>Hard</font>  | |
 0692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | [Python](./Algorithms/Python/0692_Top_K_Frequent_Words)| <font color=#F0AD4E>Medium</font> | | Customized Sort 
@@ -208,6 +209,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 |-----|---------------- | --------------- | ------------- |--------------|-----|
 0017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Python](./Algorithms/Python/0017_Letter_Combinations_of_a_Phone_Number)| <font color=#F0AD4E>Medium</font>   | | BFS/DFS/Backtracking
 0151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Python](./Algorithms/Python/0151_Reverse_Words_in_a_String)| <font color=#F0AD4E>Medium</font>   | | 
+0165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [Python](./Algorithms/Python/0165_Compare_Version_Numbers) | <font color=#F0AD4E>Medium</font>  |  |
 0227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [Python](./Algorithms/Python/0227_Basic_Calculator_II) | <font color=#F0AD4E>Medium</font>  |  |Regex
 0556 | [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | [Python](./Algorithms/Python/0556_Next_Greater_Element_III) | <font color=#F0AD4E>Medium</font>  |  |
 0567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Python](./Algorithms/Python/0567_Permutation_in_String) | <font color=#F0AD4E>Medium</font>  |  |Sliding Window <br> Two Pointer
@@ -257,6 +259,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)| [Python](./Algorithms/Python/0450_Delete_Node_in_a_BST) |<font color=#F0AD4E>Medium</font>| |
 0700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)| [Python](./Algorithms/Python/0700_Search_in_a_Binary_Search_Tree) |<font color=#5CB85C>Easy</font> | | BFS/DFS
 0987 | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)| [Python](./Algorithms/Python/0987_Vertical_Order_Traversal_of_a_Binary_Tree) |<font color=#F0AD4E>Medium</font> | |  
+1022 | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)| [Python](./Algorithms/Python/1022_Sum_of_Root_To_Leaf_Binary_Numbers) |<font color=#5CB85C>Easy</font> | |BFS/DFS
 1032 | [Stream of Characters](https://leetcode.com/problems/stream-of-characters/)| [Python](./Algorithms/Python/1032_Stream_of_Characters) |<font color=#D9534F>Hard</font> | | Trie
 1305 | [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)| [Python](./Algorithms/Python/1305_All_Elements_in_Two_Binary_Search_Trees) |<font color=#F0AD4E>Medium</font>| |
 
