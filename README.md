@@ -91,6 +91,8 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 ## Depth-First Search
 |  #  | Title           |  Solution       | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | ------------- |--------------|-----|
+0051 | [N-Queens](https://leetcode.com/problems/n-queens/) | [Python](./Algorithms/Python/0051_N-Queens)|<font color=#D9534F>Hard</font>|  |Backtracking
+0052 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [Python](./Algorithms/Python/0052_N-Queens_II)|<font color=#D9534F>Hard</font>|  |Backtracking
 0079 | [Word Search](https://leetcode.com/problems/word-search/) | [Python](./Algorithms/Python/0079_Word_Search)|<font color=#F0AD4E>Medium</font>|  |
 0200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python](./Algorithms/Python/0200_Number_of_Islands)|<font color=#F0AD4E>Medium</font>|  |DFS/BFS
 0212 | [Word Search II](https://leetcode.com/problems/word-search-ii/) | [Python](./Algorithms/Python/0212_Word_Search_II)|<font color=#D9534F>Hard</font>|  |DFS/Backtracking/Trie
@@ -138,6 +140,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0076 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Python](./Algorithms/Python/0076_Minimum_Window_Substring)| <font color=#D9534F>Hard</font>| | Sliding Window
 0146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Python](./Algorithms/Python/0146_LRU_Cache)| <font color=#F0AD4E>Medium</font>  | | 
 0290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [Python](./Algorithms/Python/0290_Word_Pattern)| <font color=#5CB85C>Easy</font> | |
+0299 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [Python](./Algorithms/Python/0299_Bulls_and_Cows)| <font color=#5CB85C>Easy</font>| | 
 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Python](./Algorithms/Python/0347_Top_K_Frequent_Elements)| <font color=#F0AD4E>Medium</font> | | Heap
 0460 | [LFU Cache](https://leetcode.com/problems/lfu-cache/) | [Python](./Algorithms/Python/0460_LFU_Cache)| <font color=#D9534F>Hard</font>  | |
 0692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | [Python](./Algorithms/Python/0692_Top_K_Frequent_Words)| <font color=#F0AD4E>Medium</font> | | Customized Sort 
