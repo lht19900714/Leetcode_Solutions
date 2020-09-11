@@ -91,6 +91,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 ## Depth-First Search
 |  #  | Title           |  Solution       | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | ------------- |--------------|-----|
+0037 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [Python](./Algorithms/Python/0037_Sudoku_Solver)|<font color=#D9534F>Hard</font>|  |Backtracking
 0051 | [N-Queens](https://leetcode.com/problems/n-queens/) | [Python](./Algorithms/Python/0051_N-Queens)|<font color=#D9534F>Hard</font>|  |Backtracking
 0052 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [Python](./Algorithms/Python/0052_N-Queens_II)|<font color=#D9534F>Hard</font>|  |Backtracking
 0079 | [Word Search](https://leetcode.com/problems/word-search/) | [Python](./Algorithms/Python/0079_Word_Search)|<font color=#F0AD4E>Medium</font>|  |
