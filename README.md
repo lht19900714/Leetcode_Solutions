@@ -91,6 +91,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 ## Depth-First Search
 |  #  | Title           |  Solution       | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | ------------- |--------------|-----|
+0022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python](./Algorithms/Python/0022_Generate_Parentheses)|<font color=#F0AD4E>Medium</font>|  |Backtracking
 0037 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [Python](./Algorithms/Python/0037_Sudoku_Solver)|<font color=#D9534F>Hard</font>|  |Backtracking
 0051 | [N-Queens](https://leetcode.com/problems/n-queens/) | [Python](./Algorithms/Python/0051_N-Queens)|<font color=#D9534F>Hard</font>|  |Backtracking
 0052 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [Python](./Algorithms/Python/0052_N-Queens_II)|<font color=#D9534F>Hard</font>|  |Backtracking
@@ -114,6 +115,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [Python](./Algorithms/Python/0123_Best_Time_to_Buy_and_Sell_Stock_III) | <font color=#D9534F>Hard</font> | |
 0139 | [Word Break](https://leetcode.com/problems/word-break/) | [Python](./Algorithms/Python/0139_Word_Break) |<font color=#F0AD4E>Medium</font> | | Recursion with Memoization
 0140 | [Word Break II](https://leetcode.com/problems/word-break-ii/) | [Python](./Algorithms/Python/0140_Word_Break_II) |<font color=#D9534F>Hard</font> | | Recursion with Memoization
+0152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Python](./Algorithms/Python/0152_Maximum_Product_Subarray) | <font color=#F0AD4E>Medium</font>  | | 
 0309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Python](./Algorithms/Python/0309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown) | <font color=#F0AD4E>Medium</font>  | | 
 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Python](./Algorithms/Python/1143_Longest_Common_Subsequence) | <font color=#F0AD4E>Medium</font>  | | 
 <br/>
@@ -247,13 +249,16 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 ## Tree
 |  #  | Title           |  Solution       | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | ------------- |--------------|-----|
+0094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Python](./Algorithms/Python/0094_Binary_Tree_Inorder_Traversal)| <font color=#F0AD4E>Medium</font> | |
 0095 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [Python](./Algorithms/Python/0095_Unique_Binary_Search_Trees_II)| <font color=#F0AD4E>Medium</font> | |
 0098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Python](./Algorithms/Python/0098_Validate_Binary_Search_Tree)| <font color=#F0AD4E>Medium</font> | |
 0100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Python](./Algorithms/Python/0100_Same_Tree)| <font color=#5CB85C>Easy</font> | |BFS  
+0102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)| [Python](./Algorithms/Python/0102_Binary_Tree_Level_Order_Traversal) | <font color=#F0AD4E>Medium</font>  | |BFS 
 0103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)| [Python](./Algorithms/Python/0103_Binary_Tree_Zigzag_Level_Order_Traversal) | <font color=#F0AD4E>Medium</font>  | |BFS 
 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [Python](./Algorithms/Python/0104_Maximum_Depth_of_Binary_Tree) | <font color=#F0AD4E>Medium</font>  | |BFS/DFS 
 0105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)| [Python](./Algorithms/Python/0105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal) |<font color=#F0AD4E>Medium</font> | |  
 0106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)| [Python](./Algorithms/Python/0106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal) |<font color=#F0AD4E>Medium</font> | |  
+0107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)| [Python](./Algorithms/Python/0107_Binary_Tree_Level_Order_Traversal_II) |<font color=#5CB85C>Easy</font> | | BFS 
 0112 | [Path Sum](https://leetcode.com/problems/path-sum/)| [Python](./Algorithms/Python/0112_Path_Sum) |<font color=#5CB85C>Easy</font> | | BFS/DFS
 0113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/)| [Python](./Algorithms/Python/0113_Path_Sum_II) |<font color=#F0AD4E>Medium</font> | | BFS/DFS
 0208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)| [Python](./Algorithms/Python/0208_Implement_Trie_(Prefix_Tree)) |<font color=#F0AD4E>Medium</font> | |  
