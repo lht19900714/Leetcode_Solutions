@@ -41,6 +41,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 |-----|------------------ | ---------------- | -------------- |---------------|------|
 0015 | [3Sum](https://leetcode.com/problems/3sum/) | [Python](./Algorithms/Python/0015_3Sum) |<font color=#F0AD4E>Medium</font> |  | Two Pointer
 0042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python](./Algorithms/Python/0042_Trapping_Rain_Water) |<font color=#D9534F>Hard</font> |  | Two Pointer
+0057 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [Python](./Algorithms/Python/0057_Insert_Interval) |<font color=#D9534F>Hard</font> |  |
 0118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Python](./Algorithms/Python/0118_Pascal's_Triangle) |<font color=#5CB85C>Easy</font> |  | 
 0119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Python](./Algorithms/Python/0119_Pascal's_Triangle_II) |<font color=#5CB85C>Easy</font> |  |
 0153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Python](./Algorithms/Python/0153_Find_Minimum_in_Rotated_Sorted_Array) |<font color=#F0AD4E>Medium</font> |  | Binary Search
@@ -98,6 +99,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0079 | [Word Search](https://leetcode.com/problems/word-search/) | [Python](./Algorithms/Python/0079_Word_Search)|<font color=#F0AD4E>Medium</font>|  |
 0200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python](./Algorithms/Python/0200_Number_of_Islands)|<font color=#F0AD4E>Medium</font>|  |DFS/BFS
 0212 | [Word Search II](https://leetcode.com/problems/word-search-ii/) | [Python](./Algorithms/Python/0212_Word_Search_II)|<font color=#D9534F>Hard</font>|  |DFS/Backtracking/Trie
+0216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [Python](./Algorithms/Python/0216_Combination_Sum_III)|<font color=#F0AD4E>Medium</font>|  |Backtracking
 
 <br/>
 <div align="right">
