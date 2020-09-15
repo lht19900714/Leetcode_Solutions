@@ -118,6 +118,9 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0139 | [Word Break](https://leetcode.com/problems/word-break/) | [Python](./Algorithms/Python/0139_Word_Break) |<font color=#F0AD4E>Medium</font> | | Recursion with Memoization
 0140 | [Word Break II](https://leetcode.com/problems/word-break-ii/) | [Python](./Algorithms/Python/0140_Word_Break_II) |<font color=#D9534F>Hard</font> | | Recursion with Memoization
 0152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Python](./Algorithms/Python/0152_Maximum_Product_Subarray) | <font color=#F0AD4E>Medium</font>  | | 
+0198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Python](./Algorithms/Python/0198_House_Robber) |<font color=#5CB85C>Easy</font> | | 
+0213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | [Python](./Algorithms/Python/0213_House_Robber_II) | <font color=#F0AD4E>Medium</font>  | | 
+0337 | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | [Python](./Algorithms/Python/0337_House_Robber_III) | <font color=#F0AD4E>Medium</font>  | | DFS
 0309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Python](./Algorithms/Python/0309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown) | <font color=#F0AD4E>Medium</font>  | | 
 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Python](./Algorithms/Python/1143_Longest_Common_Subsequence) | <font color=#F0AD4E>Medium</font>  | | 
 <br/>
