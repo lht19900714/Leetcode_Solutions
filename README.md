@@ -53,6 +53,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [Python](./Algorithms/Python/0621_Task_Scheduler) | <font color=#F0AD4E>Medium</font>  |  | Math
 0973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [Python](./Algorithms/Python/0973_K_Closest_Points_to_Origin) | <font color=#F0AD4E>Medium</font>  |  | Customized Sorting
 0949 | [Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | [Python](./Algorithms/Python/0949_Largest_Time_for_Given_Digits) |<font color=#5CB85C>Easy</font>|  |
+1094 | [Car Pooling](https://leetcode.com/problems/car-pooling/) | [Python](./Algorithms/Python/1094_Car_Pooling) |<font color=#F0AD4E>Medium</font>|  |
 1291 | [Sequential Digits](https://leetcode.com/problems/sequential-digits/) | [Python](./Algorithms/Python/1291_Sequential_Digits) |<font color=#F0AD4E>Medium</font> |  |
 
 <br/>
