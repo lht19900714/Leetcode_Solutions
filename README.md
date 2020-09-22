@@ -42,10 +42,13 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0015 | [3Sum](https://leetcode.com/problems/3sum/) | [Python](./Algorithms/Python/0015_3Sum) |<font color=#F0AD4E>Medium</font> |  | Two Pointer
 0042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python](./Algorithms/Python/0042_Trapping_Rain_Water) |<font color=#D9534F>Hard</font> |  | Two Pointer
 0057 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [Python](./Algorithms/Python/0057_Insert_Interval) |<font color=#D9534F>Hard</font> |  |
+0066 | [Plus One](https://leetcode.com/problems/plus-one/) | [Python](./Algorithms/Python/0066_Plus_One) |<font color=#5CB85C>Easy</font> |  | 
 0118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Python](./Algorithms/Python/0118_Pascal's_Triangle) |<font color=#5CB85C>Easy</font> |  | 
 0119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Python](./Algorithms/Python/0119_Pascal's_Triangle_II) |<font color=#5CB85C>Easy</font> |  |
 0153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Python](./Algorithms/Python/0153_Find_Minimum_in_Rotated_Sorted_Array) |<font color=#F0AD4E>Medium</font> |  | Binary Search
 0154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Python](./Algorithms/Python/0154_Find_Minimum_in_Rotated_Sorted_Array_II) |<font color=#D9534F>Hard</font>|  | Binary Search
+0169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python](./Algorithms/Python/0169_Majority_Element) | <font color=#5CB85C>Easy</font> |  | 
+0229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [Python](./Algorithms/Python/0229_Majority_Element_II) | <font color=#F0AD4E>Medium</font>  |  | 
 0260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | [Python](./Algorithms/Python/0260_Single_Number_III) | <font color=#F0AD4E>Medium</font>  |  | 
 0380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Python](./Algorithms/Python/0380_Insert_Delete_GetRandom_O(1)) | <font color=#F0AD4E>Medium</font>  |  | Hash Set
 0435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Python](./Algorithms/Python/0435_Non-overlapping_Intervals) | <font color=#F0AD4E>Medium</font>  |  | Stack/Greedy
@@ -124,6 +127,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | [Python](./Algorithms/Python/0213_House_Robber_II) | <font color=#F0AD4E>Medium</font>  | | 
 0337 | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | [Python](./Algorithms/Python/0337_House_Robber_III) | <font color=#F0AD4E>Medium</font>  | | DFS
 0309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Python](./Algorithms/Python/0309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown) | <font color=#F0AD4E>Medium</font>  | | 
+0724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Python](./Algorithms/Python/0724_Find_Pivot_Index) |<font color=#5CB85C>Easy</font> | | 
 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Python](./Algorithms/Python/1143_Longest_Common_Subsequence) | <font color=#F0AD4E>Medium</font>  | | 
 <br/>
 <div align="right">
