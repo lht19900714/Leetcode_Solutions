@@ -45,6 +45,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0066 | [Plus One](https://leetcode.com/problems/plus-one/) | [Python](./Algorithms/Python/0066_Plus_One) |<font color=#5CB85C>Easy</font> |  | 
 0118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Python](./Algorithms/Python/0118_Pascal's_Triangle) |<font color=#5CB85C>Easy</font> |  | 
 0119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Python](./Algorithms/Python/0119_Pascal's_Triangle_II) |<font color=#5CB85C>Easy</font> |  |
+0134 | [Gas Station](https://leetcode.com/problems/gas-station/) | [Python](./Algorithms/Python/0134_Gas_Station) |<font color=#F0AD4E>Medium</font> |  |
 0153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Python](./Algorithms/Python/0153_Find_Minimum_in_Rotated_Sorted_Array) |<font color=#F0AD4E>Medium</font> |  | Binary Search
 0154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Python](./Algorithms/Python/0154_Find_Minimum_in_Rotated_Sorted_Array_II) |<font color=#D9534F>Hard</font>|  | Binary Search
 0169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python](./Algorithms/Python/0169_Majority_Element) | <font color=#5CB85C>Easy</font> |  | 
