@@ -41,6 +41,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 |-----|------------------ | ---------------- | -------------- |---------------|------|
 0015 | [3Sum](https://leetcode.com/problems/3sum/) | [Python](./Algorithms/Python/0015_3Sum) |<font color=#F0AD4E>Medium</font> |  | Two Pointer
 0042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python](./Algorithms/Python/0042_Trapping_Rain_Water) |<font color=#D9534F>Hard</font> |  | Two Pointer
+0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Python](./Algorithms/Python/0054_Spiral_Matrix) |<font color=#F0AD4E>Medium</font> |  |
 0057 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [Python](./Algorithms/Python/0057_Insert_Interval) |<font color=#D9534F>Hard</font> |  |
 0066 | [Plus One](https://leetcode.com/problems/plus-one/) | [Python](./Algorithms/Python/0066_Plus_One) |<font color=#5CB85C>Easy</font> |  | 
 0118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Python](./Algorithms/Python/0118_Pascal's_Triangle) |<font color=#5CB85C>Easy</font> |  | 
@@ -54,6 +55,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Python](./Algorithms/Python/0380_Insert_Delete_GetRandom_O(1)) | <font color=#F0AD4E>Medium</font>  |  | Hash Set
 0435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Python](./Algorithms/Python/0435_Non-overlapping_Intervals) | <font color=#F0AD4E>Medium</font>  |  | Stack/Greedy
 0459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | [Python](./Algorithms/Python/0459_Repeated_Substring_Pattern) |<font color=#5CB85C>Easy</font>|  |
+0498 | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) | [Python](./Algorithms/Python/0498_Diagonal_Traverse) | <font color=#F0AD4E>Medium</font>  |  | 
 0621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [Python](./Algorithms/Python/0621_Task_Scheduler) | <font color=#F0AD4E>Medium</font>  |  | Math
 0973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [Python](./Algorithms/Python/0973_K_Closest_Points_to_Origin) | <font color=#F0AD4E>Medium</font>  |  | Customized Sorting
 0949 | [Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | [Python](./Algorithms/Python/0949_Largest_Time_for_Given_Digits) |<font color=#5CB85C>Easy</font>|  |
