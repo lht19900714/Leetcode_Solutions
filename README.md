@@ -131,6 +131,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | [Python](./Algorithms/Python/0213_House_Robber_II) | <font color=#F0AD4E>Medium</font>  | | 
 0337 | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | [Python](./Algorithms/Python/0337_House_Robber_III) | <font color=#F0AD4E>Medium</font>  | | DFS
 0309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Python](./Algorithms/Python/0309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown) | <font color=#F0AD4E>Medium</font>  | | 
+0532 | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [Python](./Algorithms/Python/0532_K-diff_Pairs_in_an_Array) | <font color=#F0AD4E>Medium</font>  | | 
 0724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Python](./Algorithms/Python/0724_Find_Pivot_Index) |<font color=#5CB85C>Easy</font> | | 
 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Python](./Algorithms/Python/1143_Longest_Common_Subsequence) | <font color=#F0AD4E>Medium</font>  | | 
 <br/>
