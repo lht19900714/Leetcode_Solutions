@@ -40,6 +40,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 |  #  | Title             |  Solution        | Difficulty     | Tag           |  Note| 
 |-----|------------------ | ---------------- | -------------- |---------------|------|
 0015 | [3Sum](https://leetcode.com/problems/3sum/) | [Python](./Algorithms/Python/0015_3Sum) |<font color=#F0AD4E>Medium</font> |  | Two Pointer
+0027 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Python](./Algorithms/Python/0027_Remove_Element) |<font color=#5CB85C>Easy</font>|  | Two Pointer
 0042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python](./Algorithms/Python/0042_Trapping_Rain_Water) |<font color=#D9534F>Hard</font> |  | Two Pointer
 0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Python](./Algorithms/Python/0054_Spiral_Matrix) |<font color=#F0AD4E>Medium</font> |  |
 0057 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [Python](./Algorithms/Python/0057_Insert_Interval) |<font color=#D9534F>Hard</font> |  |
@@ -50,6 +51,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Python](./Algorithms/Python/0153_Find_Minimum_in_Rotated_Sorted_Array) |<font color=#F0AD4E>Medium</font> |  | Binary Search
 0154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Python](./Algorithms/Python/0154_Find_Minimum_in_Rotated_Sorted_Array_II) |<font color=#D9534F>Hard</font>|  | Binary Search
 0169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python](./Algorithms/Python/0169_Majority_Element) | <font color=#5CB85C>Easy</font> |  | 
+0209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Python](./Algorithms/Python/0209_Minimum_Size_Subarray_Sum) | <font color=#F0AD4E>Medium</font>  |  | Two Pointer
 0229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [Python](./Algorithms/Python/0229_Majority_Element_II) | <font color=#F0AD4E>Medium</font>  |  | 
 0260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | [Python](./Algorithms/Python/0260_Single_Number_III) | <font color=#F0AD4E>Medium</font>  |  | 
 0380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Python](./Algorithms/Python/0380_Insert_Delete_GetRandom_O(1)) | <font color=#F0AD4E>Medium</font>  |  | Hash Set
@@ -254,6 +256,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [Python](./Algorithms/Python/0503_Next_Greater_Element_II)| <font color=#F0AD4E>Medium</font>   |  | 
 0735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | [Python](./Algorithms/Python/0735_Asteroid_Collision)| <font color=#F0AD4E>Medium</font>   |  | 
 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Python](./Algorithms/Python/0739_Daily_Temperatures)| <font color=#F0AD4E>Medium</font>   |  | 
+1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | [Python](./Algorithms/Python/1288_Remove_Covered_Intervals)| <font color=#F0AD4E>Medium</font>   |  | Customized Sort
 
 <br/>
 <div align="right">
