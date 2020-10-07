@@ -178,6 +178,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](./Algorithms/Python/0002_Add_Two_Numbers)| <font color=#F0AD4E>Medium</font> | | 
 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](./Algorithms/Python/0021_Merge_Two_Sorted_Lists)| <font color=#5CB85C>Easy</font> | | 
 0024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Python](./Algorithms/Python/0024_Swap_Nodes_in_Pairs)| <font color=#F0AD4E>Medium</font>| | 
+0061 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Python](./Algorithms/Python/0061_Rotate_List)| <font color=#F0AD4E>Medium</font> | | 
 0138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Python](./Algorithms/Python/0138_Copy_List_with_Random_Pointer)| <font color=#F0AD4E>Medium</font> | | 
 0143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [Python](./Algorithms/Python/0143_Reorder_List)| <font color=#F0AD4E>Medium</font> | | 
 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](./Algorithms/Python/0206_Reverse_Linked_List)| <font color=#5CB85C>Easy</font> | | 
