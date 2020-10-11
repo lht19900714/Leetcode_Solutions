@@ -40,20 +40,24 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 |  #  | Title             |  Solution        | Difficulty     | Tag           |  Note| 
 |-----|------------------ | ---------------- | -------------- |---------------|------|
 0015 | [3Sum](https://leetcode.com/problems/3sum/) | [Python](./Algorithms/Python/0015_3Sum) |<font color=#F0AD4E>Medium</font> |  | Two Pointer
+0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](./Algorithms/Python/0026_Remove_Duplicates_from_Sorted_Array) |<font color=#5CB85C>Easy</font>|  |Two Pointer
 0027 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Python](./Algorithms/Python/0027_Remove_Element) |<font color=#5CB85C>Easy</font>|  | Two Pointer
 0042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python](./Algorithms/Python/0042_Trapping_Rain_Water) |<font color=#D9534F>Hard</font> |  | Two Pointer
 0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Python](./Algorithms/Python/0054_Spiral_Matrix) |<font color=#F0AD4E>Medium</font> |  |
 0057 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [Python](./Algorithms/Python/0057_Insert_Interval) |<font color=#D9534F>Hard</font> |  |
 0066 | [Plus One](https://leetcode.com/problems/plus-one/) | [Python](./Algorithms/Python/0066_Plus_One) |<font color=#5CB85C>Easy</font> |  | 
+0080 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Python](./Algorithms/Python/0080_Remove_Duplicates_from_Sorted_Array_II) |<font color=#F0AD4E>Medium</font>|  |Two Pointer
 0118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Python](./Algorithms/Python/0118_Pascal's_Triangle) |<font color=#5CB85C>Easy</font> |  | 
 0119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Python](./Algorithms/Python/0119_Pascal's_Triangle_II) |<font color=#5CB85C>Easy</font> |  |
 0134 | [Gas Station](https://leetcode.com/problems/gas-station/) | [Python](./Algorithms/Python/0134_Gas_Station) |<font color=#F0AD4E>Medium</font> |  |
 0153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Python](./Algorithms/Python/0153_Find_Minimum_in_Rotated_Sorted_Array) |<font color=#F0AD4E>Medium</font> |  | Binary Search
 0154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Python](./Algorithms/Python/0154_Find_Minimum_in_Rotated_Sorted_Array_II) |<font color=#D9534F>Hard</font>|  | Binary Search
 0169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python](./Algorithms/Python/0169_Majority_Element) | <font color=#5CB85C>Easy</font> |  | 
+0189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Python](./Algorithms/Python/0189_Rotate_Array) | <font color=#F0AD4E>Medium</font>  |  |
 0209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Python](./Algorithms/Python/0209_Minimum_Size_Subarray_Sum) | <font color=#F0AD4E>Medium</font>  |  | Two Pointer
 0229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [Python](./Algorithms/Python/0229_Majority_Element_II) | <font color=#F0AD4E>Medium</font>  |  | 
 0260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | [Python](./Algorithms/Python/0260_Single_Number_III) | <font color=#F0AD4E>Medium</font>  |  | 
+0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python](./Algorithms/Python/0283_Move_Zeroes) | <font color=#5CB85C>Easy</font>  |  | Two Pointer
 0380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Python](./Algorithms/Python/0380_Insert_Delete_GetRandom_O(1)) | <font color=#F0AD4E>Medium</font>  |  | Hash Set
 0435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Python](./Algorithms/Python/0435_Non-overlapping_Intervals) | <font color=#F0AD4E>Medium</font>  |  | Stack/Greedy
 0452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [Python](./Algorithms/Python/0452_Minimum_Number_of_Arrows_to_Burst_Balloons) |<font color=#F0AD4E>Medium</font>|  |Customized Sorting
