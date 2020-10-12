@@ -244,6 +244,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0556 | [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | [Python](./Algorithms/Python/0556_Next_Greater_Element_III) | <font color=#F0AD4E>Medium</font>  |  |
 0567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Python](./Algorithms/Python/0567_Permutation_in_String) | <font color=#F0AD4E>Medium</font>  |  |Sliding Window <br> Two Pointer
 0763 | [Partition Labels](https://leetcode.com/problems/partition-labels/) | [Python](./Algorithms/Python/0763_Partition_Labels) | <font color=#F0AD4E>Medium</font>  |  |Two Pointer
+0859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings/solution/) | [Python](./Algorithms/Python/0859_Buddy_Strings) | <font color=#5CB85C>Easy</font> |  |
 
 
 <br/>
@@ -258,6 +259,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 |-----|---------------- | --------------- | ------------- |--------------|-----|
 0056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Python](./Algorithms/Python/0056_Merge_Intervals) |<font color=#F0AD4E>Medium</font> |  | 
 0084 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Python](./Algorithms/Python/0084_Largest_Rectangle_in_Histogram)|<font color=#D9534F>Hard</font>|  | Monotonic stack
+0316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | [Python](./Algorithms/Python/0316_Remove_Duplicate_Letters)|<font color=#F0AD4E>Medium</font> |  | 
 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Python](./Algorithms/Python/0496_Next_Greater_Element_I)| <font color=#5CB85C>Easy</font>   |  | 
 0503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [Python](./Algorithms/Python/0503_Next_Greater_Element_II)| <font color=#F0AD4E>Medium</font>   |  | 
 0735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | [Python](./Algorithms/Python/0735_Asteroid_Collision)| <font color=#F0AD4E>Medium</font>   |  | 
