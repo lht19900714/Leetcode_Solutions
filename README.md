@@ -185,6 +185,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Python](./Algorithms/Python/0024_Swap_Nodes_in_Pairs)| <font color=#F0AD4E>Medium</font>| | 
 0061 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Python](./Algorithms/Python/0061_Rotate_List)| <font color=#F0AD4E>Medium</font> | | 
 0138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Python](./Algorithms/Python/0138_Copy_List_with_Random_Pointer)| <font color=#F0AD4E>Medium</font> | | 
+0148 | [Sort List](https://leetcode.com/problems/sort-list/) | [Python](./Algorithms/Python/0148_Sort_List)| <font color=#F0AD4E>Medium</font> | | 
 0143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [Python](./Algorithms/Python/0143_Reorder_List)| <font color=#F0AD4E>Medium</font> | | 
 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](./Algorithms/Python/0206_Reverse_Linked_List)| <font color=#5CB85C>Easy</font> | | 
 0445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [Python](./Algorithms/Python/0445_Add_Two_Numbers_II)| <font color=#F0AD4E>Medium</font> | | 
