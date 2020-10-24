@@ -263,6 +263,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Python](./Algorithms/Python/0056_Merge_Intervals) |<font color=#F0AD4E>Medium</font> |  | 
 0084 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Python](./Algorithms/Python/0084_Largest_Rectangle_in_Histogram)|<font color=#D9534F>Hard</font>|  | Monotonic stack
 0316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | [Python](./Algorithms/Python/0316_Remove_Duplicate_Letters)|<font color=#F0AD4E>Medium</font> |  | 
+0456 | [132 Pattern](https://leetcode.com/problems/132-pattern/) | [Python](./Algorithms/Python/0456_132_Pattern)|<font color=#F0AD4E>Medium</font> |  | 
 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Python](./Algorithms/Python/0496_Next_Greater_Element_I)| <font color=#5CB85C>Easy</font>   |  | 
 0503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [Python](./Algorithms/Python/0503_Next_Greater_Element_II)| <font color=#F0AD4E>Medium</font>   |  | 
 0735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | [Python](./Algorithms/Python/0735_Asteroid_Collision)| <font color=#F0AD4E>Medium</font>   |  | 
