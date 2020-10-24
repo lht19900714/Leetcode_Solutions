@@ -213,7 +213,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | [Python](./Algorithms/Python/0622_Design_Circular_Queue)|<font color=#F0AD4E>Medium</font> | | 
 0641 | [Design Circular Deque](https://leetcode.com/problems/design-circular-deque/) | [Python](./Algorithms/Python/0641_Design_Circular_Deque)|<font color=#F0AD4E>Medium</font> | | 
 0933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | [Python](./Algorithms/Python/0933_Number_of_Recent_Calls)|<font color=#5CB85C>Easy</font>| | 
-
+0948 | [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) | [Python](./Algorithms/Python/0948_Bag_of_Tokens) | <font color=#F0AD4E>Medium</font>  |  | 
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
