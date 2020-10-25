@@ -118,6 +118,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python](./Algorithms/Python/0200_Number_of_Islands)|<font color=#F0AD4E>Medium</font>|  |DFS/BFS
 0212 | [Word Search II](https://leetcode.com/problems/word-search-ii/) | [Python](./Algorithms/Python/0212_Word_Search_II)|<font color=#D9534F>Hard</font>|  |DFS/Backtracking/Trie
 0216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [Python](./Algorithms/Python/0216_Combination_Sum_III)|<font color=#F0AD4E>Medium</font>|  |Backtracking
+1510 | [Stone Game IV](https://leetcode.com/problems/stone-game-iv/) | [Python](./Algorithms/Python/1510_Stone_Game_IV)|<font color=#D9534F>Hard</font>|  |Recursion with Memoization
 
 <br/>
 <div align="right">
