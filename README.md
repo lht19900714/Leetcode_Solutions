@@ -85,6 +85,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)| [Python](./Algorithms/Python/0069_Sqrt(x)) |<font color=#5CB85C>Easy</font>| |  
 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)| [Python](./Algorithms/Python/0034_Find_First_and_Last_Position_of_Element_in_Sorted_Array) |<font color=#F0AD4E>Medium</font> | |  
 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)| [Python](./Algorithms/Python/0074_Search_a_2D_Matrix) |<font color=#F0AD4E>Medium</font> | |  
+0162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/)| [Python](./Algorithms/Python/0162_Find_Peak_Element) |<font color=#F0AD4E>Medium</font> | |  
 0240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)| [Python](./Algorithms/Python/0240_Search_a_2D_Matrix_II) |<font color=#F0AD4E>Medium</font> | |  
 0295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)| [Python](./Algorithms/Python/0295_Find_Median_from_Data_Stream) |<font color=#D9534F>Hard</font> | |  
 0436 | [Find Right Interval](https://leetcode.com/problems/find-right-interval/)| [Python](./Algorithms/Python/0436_Find_Right_Interval) |<font color=#F0AD4E>Medium</font> | |  
@@ -144,6 +145,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0337 | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | [Python](./Algorithms/Python/0337_House_Robber_III) | <font color=#F0AD4E>Medium</font>  | | DFS
 0309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Python](./Algorithms/Python/0309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown) | <font color=#F0AD4E>Medium</font>  | | 
 0532 | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [Python](./Algorithms/Python/0532_K-diff_Pairs_in_an_Array) | <font color=#F0AD4E>Medium</font>  | | 
+0673 | [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) | [Python](./Algorithms/Python/0673_Number_of_Longest_Increasing_Subsequence) | <font color=#F0AD4E>Medium</font>  | | 
 0724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Python](./Algorithms/Python/0724_Find_Pivot_Index) |<font color=#5CB85C>Easy</font> | | 
 0799 | [Champagne Tower](https://leetcode.com/problems/champagne-tower/) | [Python](./Algorithms/Python/0799_Champagne_Tower) |<font color=#F0AD4E>Medium</font> | | 
 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Python](./Algorithms/Python/1143_Longest_Common_Subsequence) | <font color=#F0AD4E>Medium</font>  | | 
@@ -290,6 +292,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Python](./Algorithms/Python/0094_Binary_Tree_Inorder_Traversal)| <font color=#F0AD4E>Medium</font> | |
 0095 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [Python](./Algorithms/Python/0095_Unique_Binary_Search_Trees_II)| <font color=#F0AD4E>Medium</font> | |
 0098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Python](./Algorithms/Python/0098_Validate_Binary_Search_Tree)| <font color=#F0AD4E>Medium</font> | |
+0099 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | [Python](./Algorithms/Python/0099_Recover_Binary_Search_Tree)| <font color=#D9534F>Hard</font> | |
 0100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Python](./Algorithms/Python/0100_Same_Tree)| <font color=#5CB85C>Easy</font> | |BFS  
 0102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)| [Python](./Algorithms/Python/0102_Binary_Tree_Level_Order_Traversal) | <font color=#F0AD4E>Medium</font>  | |BFS 
 0103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)| [Python](./Algorithms/Python/0103_Binary_Tree_Zigzag_Level_Order_Traversal) | <font color=#F0AD4E>Medium</font>  | |BFS 
