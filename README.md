@@ -88,6 +88,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/)| [Python](./Algorithms/Python/0162_Find_Peak_Element) |<font color=#F0AD4E>Medium</font> | |  
 0240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)| [Python](./Algorithms/Python/0240_Search_a_2D_Matrix_II) |<font color=#F0AD4E>Medium</font> | |  
 0295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)| [Python](./Algorithms/Python/0295_Find_Median_from_Data_Stream) |<font color=#D9534F>Hard</font> | |  
+0367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)| [Python](./Algorithms/Python/0367_Valid_Perfect_Square) |<font color=#5CB85C>Easy</font>| |  
 0436 | [Find Right Interval](https://leetcode.com/problems/find-right-interval/)| [Python](./Algorithms/Python/0436_Find_Right_Interval) |<font color=#F0AD4E>Medium</font> | |  
 0658 | [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)| [Python](./Algorithms/Python/0658_Find_K_Closest_Elements) |<font color=#F0AD4E>Medium</font> | |  
 
@@ -197,6 +198,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python](./Algorithms/Python/0141_Linked_List_Cycle)| <font color=#5CB85C>Easy</font> | | Two Pointer
 0142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Python](./Algorithms/Python/0142_Linked_List_Cycle_II)| <font color=#F0AD4E>Medium</font> | | Two Pointer
 0143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [Python](./Algorithms/Python/0143_Reorder_List)| <font color=#F0AD4E>Medium</font> | | 
+0147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [Python](./Algorithms/Python/0147_Insertion_Sort_List)| <font color=#F0AD4E>Medium</font> | | 
 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](./Algorithms/Python/0206_Reverse_Linked_List)| <font color=#5CB85C>Easy</font> | | 
 0445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [Python](./Algorithms/Python/0445_Add_Two_Numbers_II)| <font color=#F0AD4E>Medium</font> | | 
 <br/>
