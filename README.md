@@ -91,6 +91,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)| [Python](./Algorithms/Python/0367_Valid_Perfect_Square) |<font color=#5CB85C>Easy</font>| |  
 0436 | [Find Right Interval](https://leetcode.com/problems/find-right-interval/)| [Python](./Algorithms/Python/0436_Find_Right_Interval) |<font color=#F0AD4E>Medium</font> | |  
 0658 | [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)| [Python](./Algorithms/Python/0658_Find_K_Closest_Elements) |<font color=#F0AD4E>Medium</font> | |  
+1283 | [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)| [Python](./Algorithms/Python/1283_Find_the_Smallest_Divisor_Given_a_Threshold) |<font color=#F0AD4E>Medium</font> | |  
 
 <br/>
 <div align="right">
@@ -313,6 +314,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)| [Python](./Algorithms/Python/0700_Search_in_a_Binary_Search_Tree) |<font color=#5CB85C>Easy</font> | | BFS/DFS
 0987 | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)| [Python](./Algorithms/Python/0987_Vertical_Order_Traversal_of_a_Binary_Tree) |<font color=#F0AD4E>Medium</font> | |  
 1022 | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)| [Python](./Algorithms/Python/1022_Sum_of_Root_To_Leaf_Binary_Numbers) |<font color=#5CB85C>Easy</font> | |BFS/DFS
+1026 | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)| [Python](./Algorithms/Python/1026_Maximum_Difference_Between_Node_and_Ancestor) |<font color=#F0AD4E>Medium</font>| |
 1032 | [Stream of Characters](https://leetcode.com/problems/stream-of-characters/)| [Python](./Algorithms/Python/1032_Stream_of_Characters) |<font color=#D9534F>Hard</font> | | Trie
 1305 | [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)| [Python](./Algorithms/Python/1305_All_Elements_in_Two_Binary_Search_Trees) |<font color=#F0AD4E>Medium</font>| |
 
