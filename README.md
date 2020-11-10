@@ -311,6 +311,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)| [Python](./Algorithms/Python/0404_Sum_of_Left_Leaves) |<font color=#5CB85C>Easy</font> | |BFS/DFS
 0437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/)| [Python](./Algorithms/Python/0437_Path_Sum_III) |<font color=#F0AD4E>Medium</font> | | BFS/DFS
 0450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)| [Python](./Algorithms/Python/0450_Delete_Node_in_a_BST) |<font color=#F0AD4E>Medium</font>| |
+0563 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)| [Python](./Algorithms/Python/0563_Binary_Tree_Tilt) |<font color=#5CB85C>Easy</font> | |
 0700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)| [Python](./Algorithms/Python/0700_Search_in_a_Binary_Search_Tree) |<font color=#5CB85C>Easy</font> | | BFS/DFS
 0987 | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)| [Python](./Algorithms/Python/0987_Vertical_Order_Traversal_of_a_Binary_Tree) |<font color=#F0AD4E>Medium</font> | |  
 1022 | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)| [Python](./Algorithms/Python/1022_Sum_of_Root_To_Leaf_Binary_Numbers) |<font color=#5CB85C>Easy</font> | |BFS/DFS
