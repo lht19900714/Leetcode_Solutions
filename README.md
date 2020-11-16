@@ -152,6 +152,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0673 | [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) | [Python](./Algorithms/Python/0673_Number_of_Longest_Increasing_Subsequence) | <font color=#F0AD4E>Medium</font>  | | 
 0724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Python](./Algorithms/Python/0724_Find_Pivot_Index) |<font color=#5CB85C>Easy</font> | | 
 0799 | [Champagne Tower](https://leetcode.com/problems/champagne-tower/) | [Python](./Algorithms/Python/0799_Champagne_Tower) |<font color=#F0AD4E>Medium</font> | | 
+0845 | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/) | [Python](./Algorithms/Python/0845_Longest_Mountain_in_Array) | <font color=#F0AD4E>Medium</font>  | | 
 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Python](./Algorithms/Python/1143_Longest_Common_Subsequence) | <font color=#F0AD4E>Medium</font>  | | 
 <br/>
 <div align="right">
