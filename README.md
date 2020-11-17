@@ -300,6 +300,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Python](./Algorithms/Python/0098_Validate_Binary_Search_Tree)| <font color=#F0AD4E>Medium</font> | |
 0099 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | [Python](./Algorithms/Python/0099_Recover_Binary_Search_Tree)| <font color=#D9534F>Hard</font> | |
 0100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Python](./Algorithms/Python/0100_Same_Tree)| <font color=#5CB85C>Easy</font> | |BFS  
+0101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)| [Python](./Algorithms/Python/0101_Symmetric_Tree) | <font color=#5CB85C>Easy</font>| |DFS
 0102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)| [Python](./Algorithms/Python/0102_Binary_Tree_Level_Order_Traversal) | <font color=#F0AD4E>Medium</font>  | |BFS 
 0103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)| [Python](./Algorithms/Python/0103_Binary_Tree_Zigzag_Level_Order_Traversal) | <font color=#F0AD4E>Medium</font>  | |BFS 
 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [Python](./Algorithms/Python/0104_Maximum_Depth_of_Binary_Tree) | <font color=#F0AD4E>Medium</font>  | |BFS/DFS 
