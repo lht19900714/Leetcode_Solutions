@@ -109,6 +109,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Python](./Algorithms/Python/0210_Course_Schedule_II)|<font color=#F0AD4E>Medium</font>|  |Topological Ordering 
 0310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | [Python](./Algorithms/Python/0310_Minimum_Height_Trees)|<font color=#F0AD4E>Medium</font>|  |Topological Ordering 
 0994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [Python](./Algorithms/Python/0994_Rotting_Oranges)|<font color=#F0AD4E>Medium</font>|  |BFS
+1306 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | [Python](./Algorithms/Python/1306_Jump_Game_III)|<font color=#F0AD4E>Medium</font>|  |BFS/DFS
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
@@ -138,6 +139,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 |  #  | Title           |  Solution       | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | ------------- |--------------|-----|
 0005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](./Algorithms/Python/0005_Longest_Palindromic_Substring) |<font color=#F0AD4E>Medium</font> | | Two Pointer
+0055 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Python](./Algorithms/Python/0055_Jump_Game) |<font color=#F0AD4E>Medium</font>  | |
 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](./Algorithms/Python/0070_Climbing_Stairs) |<font color=#5CB85C>Easy</font> | | Recursion with Memoization 
 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./Algorithms/Python/0121_Best_Time_to_Buy_and_Sell_Stock) | <font color=#5CB85C>Easy</font>   | | 
 0122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python](./Algorithms/Python/0122_Best_Time_to_Buy_and_Sell_Stock_II) | <font color=#5CB85C>Easy</font> | |
