@@ -219,6 +219,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 |  #  | Title             |  Solution        | Difficulty     | Tag           |  Note| 
 |-----|------------------ | ---------------- | -------------- |---------------|------|
 1344 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | [Python](./Algorithms/Python/1344_Angle_Between_Hands_of_a_Clock) | <font color=#F0AD4E>Medium</font>  | | 
+1492 | [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | [Python](./Algorithms/Python/1492_The_kth_Factor_of_n) | <font color=#F0AD4E>Medium</font>  | | 
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
@@ -314,6 +315,8 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)| [Python](./Algorithms/Python/0107_Binary_Tree_Level_Order_Traversal_II) |<font color=#5CB85C>Easy</font> | | BFS 
 0112 | [Path Sum](https://leetcode.com/problems/path-sum/)| [Python](./Algorithms/Python/0112_Path_Sum) |<font color=#5CB85C>Easy</font> | | BFS/DFS
 0113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/)| [Python](./Algorithms/Python/0113_Path_Sum_II) |<font color=#F0AD4E>Medium</font> | | BFS/DFS
+0116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)| [Python](./Algorithms/Python/0116_Populating_Next_Right_Pointers_in_Each_Node) |<font color=#F0AD4E>Medium</font> | |  
+0117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)| [Python](./Algorithms/Python/0117_Populating_Next_Right_Pointers_in_Each_Node_II) |<font color=#F0AD4E>Medium</font> | |  
 0208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)| [Python](./Algorithms/Python/0208_Implement_Trie_(Prefix_Tree)) |<font color=#F0AD4E>Medium</font> | |  
 0211 | [Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)| [Python](./Algorithms/Python/0211_Add_and_Search_Word_-_Data_structure_design) |<font color=#F0AD4E>Medium</font> | |  
 0404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)| [Python](./Algorithms/Python/0404_Sum_of_Left_Leaves) |<font color=#5CB85C>Easy</font> | |BFS/DFS
