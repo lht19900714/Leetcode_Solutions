@@ -45,6 +45,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python](./Algorithms/Python/0042_Trapping_Rain_Water) |<font color=#D9534F>Hard</font> |  | Two Pointer
 0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Python](./Algorithms/Python/0054_Spiral_Matrix) |<font color=#F0AD4E>Medium</font> |  |
 0057 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [Python](./Algorithms/Python/0057_Insert_Interval) |<font color=#D9534F>Hard</font> |  |
+0059 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Python](./Algorithms/Python/0059_Spiral_Matrix_II) |<font color=#F0AD4E>Medium</font>|  |
 0066 | [Plus One](https://leetcode.com/problems/plus-one/) | [Python](./Algorithms/Python/0066_Plus_One) |<font color=#5CB85C>Easy</font> |  | 
 0080 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Python](./Algorithms/Python/0080_Remove_Duplicates_from_Sorted_Array_II) |<font color=#F0AD4E>Medium</font>|  |Two Pointer
 0118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Python](./Algorithms/Python/0118_Pascal's_Triangle) |<font color=#5CB85C>Easy</font> |  | 
@@ -68,6 +69,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0849 | [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/) | [Python](./Algorithms/Python/0849_Maximize_Distance_to_Closest_Person) | <font color=#F0AD4E>Medium</font>  |  | Two Pointer
 0973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [Python](./Algorithms/Python/0973_K_Closest_Points_to_Origin) | <font color=#F0AD4E>Medium</font>  |  | Customized Sorting
 0949 | [Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | [Python](./Algorithms/Python/0949_Largest_Time_for_Given_Digits) |<font color=#5CB85C>Easy</font>|  |
+1010 | [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | [Python](./Algorithms/Python/1010_Pairs_of_Songs_With_Total_Durations_Divisible_by_60) |<font color=#F0AD4E>Medium</font>|  |
 1094 | [Car Pooling](https://leetcode.com/problems/car-pooling/) | [Python](./Algorithms/Python/1094_Car_Pooling) |<font color=#F0AD4E>Medium</font>|  |
 1291 | [Sequential Digits](https://leetcode.com/problems/sequential-digits/) | [Python](./Algorithms/Python/1291_Sequential_Digits) |<font color=#F0AD4E>Medium</font> |  |
 
