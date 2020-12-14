@@ -126,6 +126,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0051 | [N-Queens](https://leetcode.com/problems/n-queens/) | [Python](./Algorithms/Python/0051_N-Queens)|<font color=#D9534F>Hard</font>|  |Backtracking
 0052 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [Python](./Algorithms/Python/0052_N-Queens_II)|<font color=#D9534F>Hard</font>|  |Backtracking
 0079 | [Word Search](https://leetcode.com/problems/word-search/) | [Python](./Algorithms/Python/0079_Word_Search)|<font color=#F0AD4E>Medium</font>|  |
+0131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Python](./Algorithms/Python/0131_Palindrome_Partitioning)|<font color=#F0AD4E>Medium</font>|  |Backtracking
 0200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python](./Algorithms/Python/0200_Number_of_Islands)|<font color=#F0AD4E>Medium</font>|  |DFS/BFS
 0212 | [Word Search II](https://leetcode.com/problems/word-search-ii/) | [Python](./Algorithms/Python/0212_Word_Search_II)|<font color=#D9534F>Hard</font>|  |DFS/Backtracking/Trie
 0216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [Python](./Algorithms/Python/0216_Combination_Sum_III)|<font color=#F0AD4E>Medium</font>|  |Backtracking
