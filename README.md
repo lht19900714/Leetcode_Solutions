@@ -61,6 +61,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | [Python](./Algorithms/Python/0260_Single_Number_III) | <font color=#F0AD4E>Medium</font>  |  | 
 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python](./Algorithms/Python/0283_Move_Zeroes) | <font color=#5CB85C>Easy</font>  |  | Two Pointer
 0380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Python](./Algorithms/Python/0380_Insert_Delete_GetRandom_O(1)) | <font color=#F0AD4E>Medium</font>  |  | Hash Set
+0334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [Python](./Algorithms/Python/0334_Increasing_Triplet_Subsequence) | <font color=#F0AD4E>Medium</font>  |  |
 0435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Python](./Algorithms/Python/0435_Non-overlapping_Intervals) | <font color=#F0AD4E>Medium</font>  |  | Stack/Greedy
 0452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [Python](./Algorithms/Python/0452_Minimum_Number_of_Arrows_to_Burst_Balloons) |<font color=#F0AD4E>Medium</font>|  |Customized Sorting
 0454 | [4Sum II](https://leetcode.com/problems/4sum-ii/) | [Python](./Algorithms/Python/0454_4Sum_II) |<font color=#F0AD4E>Medium</font>|  |
