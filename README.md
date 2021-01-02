@@ -344,6 +344,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 1026 | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)| [Python](./Algorithms/Python/1026_Maximum_Difference_Between_Node_and_Ancestor) |<font color=#F0AD4E>Medium</font>| |
 1032 | [Stream of Characters](https://leetcode.com/problems/stream-of-characters/)| [Python](./Algorithms/Python/1032_Stream_of_Characters) |<font color=#D9534F>Hard</font> | | Trie
 1305 | [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)| [Python](./Algorithms/Python/1305_All_Elements_in_Two_Binary_Search_Trees) |<font color=#F0AD4E>Medium</font>| |
+1379 | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)| [Python](./Algorithms/Python/1379_Find_a_Corresponding_Node_of_a_Binary_Tree_in_a_Clone_of_That_Tree) |<font color=#F0AD4E>Medium</font>| |
 1457 | [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)| [Python](./Algorithms/Python/1457_Pseudo-Palindromic_Paths_in_a_Binary_Tree) |<font color=#F0AD4E>Medium</font>| |
 
 <br/>
