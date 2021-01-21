@@ -301,6 +301,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | [Python](./Algorithms/Python/0735_Asteroid_Collision)| <font color=#F0AD4E>Medium</font>   |  | 
 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Python](./Algorithms/Python/0739_Daily_Temperatures)| <font color=#F0AD4E>Medium</font>   |  | 
 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | [Python](./Algorithms/Python/1288_Remove_Covered_Intervals)| <font color=#F0AD4E>Medium</font>   |  | Customized Sort
+1673 | [Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/) | [Python](./Algorithms/Python/1673_Find_the_Most_Competitive_Subsequence)| <font color=#F0AD4E>Medium</font>   |  |
 
 <br/>
 <div align="right">
