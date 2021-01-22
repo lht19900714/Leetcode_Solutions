@@ -278,7 +278,8 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0556 | [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | [Python](./Algorithms/Python/0556_Next_Greater_Element_III) | <font color=#F0AD4E>Medium</font>  |  |
 0567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Python](./Algorithms/Python/0567_Permutation_in_String) | <font color=#F0AD4E>Medium</font>  |  |Sliding Window <br> Two Pointer
 0763 | [Partition Labels](https://leetcode.com/problems/partition-labels/) | [Python](./Algorithms/Python/0763_Partition_Labels) | <font color=#F0AD4E>Medium</font>  |  |Two Pointer
-0859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings/solution/) | [Python](./Algorithms/Python/0859_Buddy_Strings) | <font color=#5CB85C>Easy</font> |  |
+0859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings/) | [Python](./Algorithms/Python/0859_Buddy_Strings) | <font color=#5CB85C>Easy</font> |  |
+1657 | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | [Python](./Algorithms/Python/1657_Determine_if_Two_Strings_Are_Close) | <font color=#F0AD4E>Medium</font>  |  |
 
 
 <br/>
