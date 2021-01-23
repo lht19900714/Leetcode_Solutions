@@ -78,6 +78,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 1010 | [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | [Python](./Algorithms/Python/1010_Pairs_of_Songs_With_Total_Durations_Divisible_by_60) |<font color=#F0AD4E>Medium</font>|  |
 1094 | [Car Pooling](https://leetcode.com/problems/car-pooling/) | [Python](./Algorithms/Python/1094_Car_Pooling) |<font color=#F0AD4E>Medium</font>|  |
 1291 | [Sequential Digits](https://leetcode.com/problems/sequential-digits/) | [Python](./Algorithms/Python/1291_Sequential_Digits) |<font color=#F0AD4E>Medium</font> |  |
+1329 | [Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/) | [Python](./Algorithms/Python/1329_Sort_the_Matrix_Diagonally) |<font color=#F0AD4E>Medium</font> |  |Customized Sorting
 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [Python](./Algorithms/Python/1658_Minimum_Operations_to_Reduce_X_to_Zero) |<font color=#F0AD4E>Medium</font> |  |Sliding Window
 1679 | [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | [Python](./Algorithms/Python/1679_Max_Number_of_K-Sum_Pairs) |<font color=#F0AD4E>Medium</font> |  |Two Pointer
 
