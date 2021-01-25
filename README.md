@@ -211,6 +211,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 |-----|---------------- | --------------- | ------------- |--------------|-----|
 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](./Algorithms/Python/0002_Add_Two_Numbers)| <font color=#F0AD4E>Medium</font> | | 
 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](./Algorithms/Python/0021_Merge_Two_Sorted_Lists)| <font color=#5CB85C>Easy</font> | | 
+0023 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Python](./Algorithms/Python/0023_Merge_k_Sorted_Lists)|<font color=#D9534F>Hard</font>| | 
 0024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Python](./Algorithms/Python/0024_Swap_Nodes_in_Pairs)| <font color=#F0AD4E>Medium</font>| | 
 0061 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Python](./Algorithms/Python/0061_Rotate_List)| <font color=#F0AD4E>Medium</font> | | 
 0138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Python](./Algorithms/Python/0138_Copy_List_with_Random_Pointer)| <font color=#F0AD4E>Medium</font> | | 
