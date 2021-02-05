@@ -296,6 +296,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 |  #  | Title           |  Solution       | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | ------------- |--------------|-----|
 0056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Python](./Algorithms/Python/0056_Merge_Intervals) |<font color=#F0AD4E>Medium</font> |  | 
+0071 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [Python](./Algorithms/Python/0071_Simplify_Path) |<font color=#F0AD4E>Medium</font> |  | 
 0084 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Python](./Algorithms/Python/0084_Largest_Rectangle_in_Histogram)|<font color=#D9534F>Hard</font>|  | Monotonic stack
 0316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | [Python](./Algorithms/Python/0316_Remove_Duplicate_Letters)|<font color=#F0AD4E>Medium</font> |  | 
 0394 | [Decode String](https://leetcode.com/problems/decode-string/) | [Python](./Algorithms/Python/0394_Decode_String)|<font color=#F0AD4E>Medium</font> |  | 
