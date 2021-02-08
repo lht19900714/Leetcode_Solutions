@@ -60,6 +60,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [Python](./Algorithms/Python/0229_Majority_Element_II) | <font color=#F0AD4E>Medium</font>  |  | 
 0260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | [Python](./Algorithms/Python/0260_Single_Number_III) | <font color=#F0AD4E>Medium</font>  |  | 
 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python](./Algorithms/Python/0283_Move_Zeroes) | <font color=#5CB85C>Easy</font>  |  | Two Pointer
+0284 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) | [Python](./Algorithms/Python/0284_Peeking_Iterator) | <font color=#F0AD4E>Medium</font>  |  |
 0289 | [Game of Life](https://leetcode.com/problems/game-of-life/) | [Python](./Algorithms/Python/0289_Game_of_Life) | <font color=#F0AD4E>Medium</font>  |  |
 0380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Python](./Algorithms/Python/0380_Insert_Delete_GetRandom_O(1)) | <font color=#F0AD4E>Medium</font>  |  | Hash Set
 0334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [Python](./Algorithms/Python/0334_Increasing_Triplet_Subsequence) | <font color=#F0AD4E>Medium</font>  |  |
