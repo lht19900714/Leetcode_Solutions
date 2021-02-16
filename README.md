@@ -122,6 +122,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Python](./Algorithms/Python/0210_Course_Schedule_II)|<font color=#F0AD4E>Medium</font>|  |Topological Ordering 
 0310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | [Python](./Algorithms/Python/0310_Minimum_Height_Trees)|<font color=#F0AD4E>Medium</font>|  |Topological Ordering 
 0994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [Python](./Algorithms/Python/0994_Rotting_Oranges)|<font color=#F0AD4E>Medium</font>|  |BFS
+1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [Python](./Algorithms/Python/1091_Shortest_Path_in_Binary_Matrix)|<font color=#F0AD4E>Medium</font>|  |BFS
 1306 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | [Python](./Algorithms/Python/1306_Jump_Game_III)|<font color=#F0AD4E>Medium</font>|  |BFS/DFS
 <br/>
 <div align="right">
@@ -141,6 +142,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python](./Algorithms/Python/0200_Number_of_Islands)|<font color=#F0AD4E>Medium</font>|  |DFS/BFS
 0212 | [Word Search II](https://leetcode.com/problems/word-search-ii/) | [Python](./Algorithms/Python/0212_Word_Search_II)|<font color=#D9534F>Hard</font>|  |DFS/Backtracking/Trie
 0216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [Python](./Algorithms/Python/0216_Combination_Sum_III)|<font color=#F0AD4E>Medium</font>|  |Backtracking
+0784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | [Python](./Algorithms/Python/0784_Letter_Case_Permutation)|<font color=#F0AD4E>Medium</font>|  |Backtracking
 1510 | [Stone Game IV](https://leetcode.com/problems/stone-game-iv/) | [Python](./Algorithms/Python/1510_Stone_Game_IV)|<font color=#D9534F>Hard</font>|  |Recursion with Memoization
 
 <br/>
