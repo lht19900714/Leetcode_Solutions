@@ -39,6 +39,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 ## Array
 |  #  | Title             |  Solution        | Difficulty     | Tag           |  Note| 
 |-----|------------------ | ---------------- | -------------- |---------------|------|
+0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python](./Algorithms/Python/0011_Container_With_Most_Water) |<font color=#F0AD4E>Medium</font> |  | Two Pointer
 0015 | [3Sum](https://leetcode.com/problems/3sum/) | [Python](./Algorithms/Python/0015_3Sum) |<font color=#F0AD4E>Medium</font> |  | Two Pointer
 0018 | [4Sum](https://leetcode.com/problems/4sum/) | [Python](./Algorithms/Python/0018_4Sum) |<font color=#F0AD4E>Medium</font>|  |
 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](./Algorithms/Python/0026_Remove_Duplicates_from_Sorted_Array) |<font color=#5CB85C>Easy</font>|  |Two Pointer
