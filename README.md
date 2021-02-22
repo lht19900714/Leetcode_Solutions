@@ -284,6 +284,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Python](./Algorithms/Python/0151_Reverse_Words_in_a_String)| <font color=#F0AD4E>Medium</font>   | | 
 0165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [Python](./Algorithms/Python/0165_Compare_Version_Numbers) | <font color=#F0AD4E>Medium</font>  |  |
 0227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [Python](./Algorithms/Python/0227_Basic_Calculator_II) | <font color=#F0AD4E>Medium</font>  |  |Regex
+0524 | [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) | [Python](./Algorithms/Python/0524_Longest_Word_in_Dictionary_through_Deleting) | <font color=#F0AD4E>Medium</font>  |  |Customized Sort <br> Two Pointer
 0556 | [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | [Python](./Algorithms/Python/0556_Next_Greater_Element_III) | <font color=#F0AD4E>Medium</font>  |  |
 0567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Python](./Algorithms/Python/0567_Permutation_in_String) | <font color=#F0AD4E>Medium</font>  |  |Sliding Window <br> Two Pointer
 0763 | [Partition Labels](https://leetcode.com/problems/partition-labels/) | [Python](./Algorithms/Python/0763_Partition_Labels) | <font color=#F0AD4E>Medium</font>  |  |Two Pointer
