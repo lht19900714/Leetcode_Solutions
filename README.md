@@ -315,6 +315,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | [Python](./Algorithms/Python/0735_Asteroid_Collision)| <font color=#F0AD4E>Medium</font>   |  | 
 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Python](./Algorithms/Python/0739_Daily_Temperatures)| <font color=#F0AD4E>Medium</font>   |  | 
 0921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | [Python](./Algorithms/Python/0921_Minimum_Add_to_Make_Parentheses_Valid)| <font color=#F0AD4E>Medium</font>   |  | 
+0946 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | [Python](./Algorithms/Python/0946_Validate_Stack_Sequences) | <font color=#F0AD4E>Medium</font>  |  |
 1249 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [Python](./Algorithms/Python/1249_Minimum_Remove_to_Make_Valid_Parentheses)|<font color=#F0AD4E>Medium</font> |  |
 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | [Python](./Algorithms/Python/1288_Remove_Covered_Intervals)| <font color=#F0AD4E>Medium</font>   |  | Customized Sort
 1673 | [Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/) | [Python](./Algorithms/Python/1673_Find_the_Most_Competitive_Subsequence)| <font color=#F0AD4E>Medium</font>   |  |
