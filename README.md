@@ -362,6 +362,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)| [Python](./Algorithms/Python/0450_Delete_Node_in_a_BST) |<font color=#F0AD4E>Medium</font>| |
 0538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)| [Python](./Algorithms/Python/0538_Convert_BST_to_Greater_Tree) |<font color=#F0AD4E>Medium</font> | |DFS
 0563 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)| [Python](./Algorithms/Python/0563_Binary_Tree_Tilt) |<font color=#5CB85C>Easy</font> | |
+0623 | [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)| [Python](./Algorithms/Python/0623_Add_One_Row_to_Tree) |<font color=#F0AD4E>Medium</font>| |DFS
 0669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)| [Python](./Algorithms/Python/0669_Trim_a_Binary_Search_Tree) |<font color=#F0AD4E>Medium</font>| |
 0700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)| [Python](./Algorithms/Python/0700_Search_in_a_Binary_Search_Tree) |<font color=#5CB85C>Easy</font> | | BFS/DFS
 0701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)| [Python](./Algorithms/Python/0701_Insert_into_a_Binary_Search_Tree) |<font color=#F0AD4E>Medium</font>| |  
