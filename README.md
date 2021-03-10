@@ -280,6 +280,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 ## String
 |  #  | Title           |  Solution       | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | ------------- |--------------|-----|
+0012 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Python](./Algorithms/Python/0012_Integer_to_Roman)|<font color=#F0AD4E>Medium</font>| |
 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](./Algorithms/Python/0013_Roman_to_Integer)|<font color=#5CB85C>Easy</font>| |
 0017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Python](./Algorithms/Python/0017_Letter_Combinations_of_a_Phone_Number)| <font color=#F0AD4E>Medium</font>   | | BFS/DFS/Backtracking
 0151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Python](./Algorithms/Python/0151_Reverse_Words_in_a_String)| <font color=#F0AD4E>Medium</font>   | | 
