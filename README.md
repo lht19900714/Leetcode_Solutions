@@ -168,6 +168,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Python](./Algorithms/Python/0152_Maximum_Product_Subarray) | <font color=#F0AD4E>Medium</font>  | | 
 0198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Python](./Algorithms/Python/0198_House_Robber) |<font color=#5CB85C>Easy</font> | | 
 0213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | [Python](./Algorithms/Python/0213_House_Robber_II) | <font color=#F0AD4E>Medium</font>  | | 
+0322 | [Coin Change](https://leetcode.com/problems/coin-change/) | [Python](./Algorithms/Python/0322_Coin_Change) | <font color=#F0AD4E>Medium</font>  | | DFS
 0337 | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | [Python](./Algorithms/Python/0337_House_Robber_III) | <font color=#F0AD4E>Medium</font>  | | DFS
 0309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Python](./Algorithms/Python/0309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown) | <font color=#F0AD4E>Medium</font>  | | 
 0413 | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [Python](./Algorithms/Python/0413_Arithmetic_Slices) | <font color=#F0AD4E>Medium</font>  | | 
