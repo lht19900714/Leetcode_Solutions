@@ -174,6 +174,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0413 | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [Python](./Algorithms/Python/0413_Arithmetic_Slices) | <font color=#F0AD4E>Medium</font>  | | 
 0532 | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [Python](./Algorithms/Python/0532_K-diff_Pairs_in_an_Array) | <font color=#F0AD4E>Medium</font>  | | 
 0673 | [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) | [Python](./Algorithms/Python/0673_Number_of_Longest_Increasing_Subsequence) | <font color=#F0AD4E>Medium</font>  | | 
+0714 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [Python](./Algorithms/Python/0714_Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee) | <font color=#F0AD4E>Medium</font>  | | 
 0724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Python](./Algorithms/Python/0724_Find_Pivot_Index) |<font color=#5CB85C>Easy</font> | | 
 0799 | [Champagne Tower](https://leetcode.com/problems/champagne-tower/) | [Python](./Algorithms/Python/0799_Champagne_Tower) |<font color=#F0AD4E>Medium</font> | | 
 0845 | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/) | [Python](./Algorithms/Python/0845_Longest_Mountain_in_Array) | <font color=#F0AD4E>Medium</font>  | | 
