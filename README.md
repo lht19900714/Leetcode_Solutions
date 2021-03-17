@@ -241,6 +241,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 ## Math
 |  #  | Title             |  Solution        | Difficulty     | Tag           |  Note| 
 |-----|------------------ | ---------------- | -------------- |---------------|------|
+0478 | [Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/) | [Python](./Algorithms/Python/0478_Generate_Random_Point_in_a_Circle) | <font color=#F0AD4E>Medium</font>  | | 
 1344 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | [Python](./Algorithms/Python/1344_Angle_Between_Hands_of_a_Clock) | <font color=#F0AD4E>Medium</font>  | | 
 1492 | [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | [Python](./Algorithms/Python/1492_The_kth_Factor_of_n) | <font color=#F0AD4E>Medium</font>  | | 
 <br/>
