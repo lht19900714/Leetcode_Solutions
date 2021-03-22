@@ -210,6 +210,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Python](./Algorithms/Python/0347_Top_K_Frequent_Elements)| <font color=#F0AD4E>Medium</font> | | Heap
 0460 | [LFU Cache](https://leetcode.com/problems/lfu-cache/) | [Python](./Algorithms/Python/0460_LFU_Cache)| <font color=#D9534F>Hard</font>  | |
 0692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | [Python](./Algorithms/Python/0692_Top_K_Frequent_Words)| <font color=#F0AD4E>Medium</font> | | Customized Sort 
+0966 | [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/) | [Python](./Algorithms/Python/0966_Vowel_Spellchecker)| <font color=#F0AD4E>Medium</font> | |
 
 <br/>
 <div align="right">
