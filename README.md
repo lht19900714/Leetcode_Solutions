@@ -74,6 +74,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [Python](./Algorithms/Python/0621_Task_Scheduler) | <font color=#F0AD4E>Medium</font>  |  | Math
 0713 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | [Python](./Algorithms/Python/0713_Subarray_Product_Less_Than_K) | <font color=#F0AD4E>Medium</font>  |  | Two Pointer
 0849 | [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/) | [Python](./Algorithms/Python/0849_Maximize_Distance_to_Closest_Person) | <font color=#F0AD4E>Medium</font>  |  | Two Pointer
+0870 | [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/) | [Python](./Algorithms/Python/0870_Advantage_Shuffle) | <font color=#F0AD4E>Medium</font>  |  |
 0880 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/) | [Python](./Algorithms/Python/0880_Decoded_String_at_Index) | <font color=#F0AD4E>Medium</font>  |  |
 0881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | [Python](./Algorithms/Python/0881_Boats_to_Save_People) | <font color=#F0AD4E>Medium</font>  |  |Two Pointer
 0973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [Python](./Algorithms/Python/0973_K_Closest_Points_to_Origin) | <font color=#F0AD4E>Medium</font>  |  | Customized Sorting
