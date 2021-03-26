@@ -77,6 +77,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0870 | [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/) | [Python](./Algorithms/Python/0870_Advantage_Shuffle) | <font color=#F0AD4E>Medium</font>  |  |
 0880 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/) | [Python](./Algorithms/Python/0880_Decoded_String_at_Index) | <font color=#F0AD4E>Medium</font>  |  |
 0881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | [Python](./Algorithms/Python/0881_Boats_to_Save_People) | <font color=#F0AD4E>Medium</font>  |  |Two Pointer
+0916 | [Word Subsets](https://leetcode.com/problems/word-subsets/) | [Python](./Algorithms/Python/0916_Word_Subsets) | <font color=#F0AD4E>Medium</font>  |  |
 0973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [Python](./Algorithms/Python/0973_K_Closest_Points_to_Origin) | <font color=#F0AD4E>Medium</font>  |  | Customized Sorting
 0949 | [Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | [Python](./Algorithms/Python/0949_Largest_Time_for_Given_Digits) |<font color=#5CB85C>Easy</font>|  |
 1010 | [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | [Python](./Algorithms/Python/1010_Pairs_of_Songs_With_Total_Durations_Divisible_by_60) |<font color=#F0AD4E>Medium</font>|  |
