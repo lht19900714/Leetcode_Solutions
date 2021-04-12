@@ -128,6 +128,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [Python](./Algorithms/0417_Pacific_Atlantic_Water_Flow/Python)|<font color=#F0AD4E>Medium</font>|  |BFS/DFS
 0994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [Python](./Algorithms/0994_Rotting_Oranges/Python)|<font color=#F0AD4E>Medium</font>|  |BFS
 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [Python](./Algorithms/1091_Shortest_Path_in_Binary_Matrix/Python)|<font color=#F0AD4E>Medium</font>|  |BFS
+1302 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | [Python](./Algorithms/1302_Deepest_Leaves_Sum/Python)<br>[Java](./Algorithms/1302_Deepest_Leaves_Sum/Java)|<font color=#F0AD4E>Medium</font>|  |BFS/DFS
 1306 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | [Python](./Algorithms/1306_Jump_Game_III/Python)|<font color=#F0AD4E>Medium</font>|  |BFS/DFS
 <br/>
 <div align="right">
