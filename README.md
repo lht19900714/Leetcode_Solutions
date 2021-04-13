@@ -323,6 +323,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Python](./Algorithms/0056_Merge_Intervals/Python) |<font color=#F0AD4E>Medium</font> |  | 
 0071 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [Python](./Algorithms/0071_Simplify_Path/Python) |<font color=#F0AD4E>Medium</font> |  | 
 0084 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Python](./Algorithms/0084_Largest_Rectangle_in_Histogram/Python)|<font color=#D9534F>Hard</font>|  | Monotonic stack
+0232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Java](./Algorithms/0232_Implement_Queue_using_Stacks/Java)|<font color=#5CB85C>Easy</font> |  |
 0316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | [Python](./Algorithms/0316_Remove_Duplicate_Letters/Python)|<font color=#F0AD4E>Medium</font> |  | 
 0394 | [Decode String](https://leetcode.com/problems/decode-string/) | [Python](./Algorithms/0394_Decode_String/Python)|<font color=#F0AD4E>Medium</font> |  | 
 0456 | [132 Pattern](https://leetcode.com/problems/132-pattern/) | [Python](./Algorithms/0456_132_Pattern/Python)|<font color=#F0AD4E>Medium</font> |  | 
