@@ -383,6 +383,8 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)| [Python](./Algorithms/0450_Delete_Node_in_a_BST/Python) |<font color=#F0AD4E>Medium</font>| |
 0538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)| [Python](./Algorithms/0538_Convert_BST_to_Greater_Tree/Python) |<font color=#F0AD4E>Medium</font> | |DFS
 0563 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)| [Python](./Algorithms/0563_Binary_Tree_Tilt/Python) |<font color=#5CB85C>Easy</font> | |
+0589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)| [Python](./Algorithms/0589_N-ary_Tree_Preorder_Traversal/Python)<br>[Java](./Algorithms/0589_N-ary_Tree_Preorder_Traversal/Java) |<font color=#5CB85C>Easy</font> | |BFS/DFS
+0590 | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)| [Python](./Algorithms/0590_N-ary_Tree_Postorder_Traversal/Python)<br>[Java](./Algorithms/0590_N-ary_Tree_Postorder_Traversal/Java) |<font color=#5CB85C>Easy</font> | |BFS/DFS
 0623 | [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)| [Python](./Algorithms/0623_Add_One_Row_to_Tree/Python) |<font color=#F0AD4E>Medium</font>| |DFS
 0669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)| [Python](./Algorithms/0669_Trim_a_Binary_Search_Tree/Python) |<font color=#F0AD4E>Medium</font>| |
 0700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)| [Python](./Algorithms/0700_Search_in_a_Binary_Search_Tree/Python) |<font color=#5CB85C>Easy</font> | | BFS/DFS
