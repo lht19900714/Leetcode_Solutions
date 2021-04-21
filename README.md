@@ -167,6 +167,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0055 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Python](./Algorithms/0055_Jump_Game/Python) |<font color=#F0AD4E>Medium</font>  | |
 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](./Algorithms/0070_Climbing_Stairs/Python) |<font color=#5CB85C>Easy</font> | | Recursion with Memoization 
 0091 | [Decode Ways](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./Algorithms/0091_Decode_Ways/Python) |<font color=#F0AD4E>Medium</font>| | Recursion with Memoization 
+0120 | [Triangle](https://leetcode.com/problems/triangle/) | [Python](./Algorithms/0120_Triangle/Python)<br>[Java](./Algorithms/0120_Triangle/Java) |<font color=#F0AD4E>Medium</font>| | Recursion with Memoization 
 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./Algorithms/0121_Best_Time_to_Buy_and_Sell_Stock/Python) | <font color=#5CB85C>Easy</font>   | | 
 0122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python](./Algorithms/0122_Best_Time_to_Buy_and_Sell_Stock_II/Python) | <font color=#5CB85C>Easy</font> | |
 0123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [Python](./Algorithms/0123_Best_Time_to_Buy_and_Sell_Stock_III/Python) | <font color=#D9534F>Hard</font> | |
