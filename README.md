@@ -187,6 +187,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Python](./Algorithms/0724_Find_Pivot_Index/Python) |<font color=#5CB85C>Easy</font> | | 
 0799 | [Champagne Tower](https://leetcode.com/problems/champagne-tower/) | [Python](./Algorithms/0799_Champagne_Tower/Python) |<font color=#F0AD4E>Medium</font> | | 
 0845 | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/) | [Python](./Algorithms/0845_Longest_Mountain_in_Array/Python) | <font color=#F0AD4E>Medium</font>  | | 
+0983 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | [Python](./Algorithms/0983_Minimum_Cost_For_Tickets/Python)<br>[Java](./Algorithms/0983_Minimum_Cost_For_Tickets/Java) | <font color=#F0AD4E>Medium</font>  | | 
 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Python](./Algorithms/1143_Longest_Common_Subsequence/Python) | <font color=#F0AD4E>Medium</font>  | | 
 <br/>
 <div align="right">
@@ -216,6 +217,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0299 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [Python](./Algorithms/0299_Bulls_and_Cows/Python)| <font color=#5CB85C>Easy</font>| | 
 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Python](./Algorithms/0347_Top_K_Frequent_Elements/Python)| <font color=#F0AD4E>Medium</font> | | Heap
 0460 | [LFU Cache](https://leetcode.com/problems/lfu-cache/) | [Python](./Algorithms/0460_LFU_Cache/Python)| <font color=#D9534F>Hard</font>  | |
+0554 | [Brick Wall](https://leetcode.com/problems/brick-wall/) | [Python](./Algorithms/0554_Brick_Wall/Python)<br>[Java](./Algorithms/0554_Brick_Wall/Java)| <font color=#F0AD4E>Medium</font>  | |
 0692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | [Python](./Algorithms/0692_Top_K_Frequent_Words/Python)| <font color=#F0AD4E>Medium</font> | | Customized Sort 
 0953 | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [Python](./Algorithms/0953_Verifying_an_Alien_Dictionary/Python)| <font color=#5CB85C>Easy</font> | | Customized Sort 
 0966 | [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/) | [Python](./Algorithms/0966_Vowel_Spellchecker/Python)| <font color=#F0AD4E>Medium</font> | |
