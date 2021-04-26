@@ -45,6 +45,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](./Algorithms/0026_Remove_Duplicates_from_Sorted_Array/Python) |<font color=#5CB85C>Easy</font>|  |Two Pointer
 0027 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Python](./Algorithms/0027_Remove_Element/Python) |<font color=#5CB85C>Easy</font>|  | Two Pointer
 0042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python](./Algorithms/0042_Trapping_Rain_Water/Python) |<font color=#D9534F>Hard</font> |  | Two Pointer
+0048 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Python](./Algorithms/0048_Rotate_Image/Python)<br>[Java](./Algorithms/0048_Rotate_Image/Java) |<font color=#F0AD4E>Medium</font>  |  |
 0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Python](./Algorithms/0054_Spiral_Matrix/Python) |<font color=#F0AD4E>Medium</font> |  |
 0057 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [Python](./Algorithms/0057_Insert_Interval/Python) |<font color=#D9534F>Hard</font> |  |
 0059 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Python](./Algorithms/0059_Spiral_Matrix_II/Python) |<font color=#F0AD4E>Medium</font>|  |
