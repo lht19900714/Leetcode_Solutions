@@ -102,7 +102,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 |-----|---------------- | --------------- | ------------- |--------------|-----|
 0004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)| [Python](./Algorithms/0004_Median_of_Two_Sorted_Arrays/Python) |<font color=#D9534F>Hard</font>| |  
 0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| [Python](./Algorithms/0033_Search_in_Rotated_Sorted_Array/Python) |<font color=#F0AD4E>Medium</font> | |  
-0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)| [Python](./Algorithms/0034_Find_First_and_Last_Position_of_Element_in_Sorted_Array/Python) |<font color=#F0AD4E>Medium</font> | |  
+0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)| [Python](./Algorithms/0034_Find_First_and_Last_Position_of_Element_in_Sorted_Array/Python)<br>[Java](./Algorithms/0034_Find_First_and_Last_Position_of_Element_in_Sorted_Array/Java) |<font color=#F0AD4E>Medium</font> | |  
 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)| [Python](./Algorithms/0069_Sqrt(x/Python)) |<font color=#5CB85C>Easy</font>| |  
 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)| [Python](./Algorithms/0074_Search_a_2D_Matrix/Python) |<font color=#F0AD4E>Medium</font> | |  
 0081 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)| [Python](./Algorithms/0081_Search_in_Rotated_Sorted_Array_II/Python) |<font color=#F0AD4E>Medium</font> | |  
