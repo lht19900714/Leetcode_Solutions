@@ -151,6 +151,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0212 | [Word Search II](https://leetcode.com/problems/word-search-ii/) | [Python](./Algorithms/0212_Word_Search_II/Python)|<font color=#D9534F>Hard</font>|  |DFS/Backtracking/Trie
 0216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [Python](./Algorithms/0216_Combination_Sum_III/Python)|<font color=#F0AD4E>Medium</font>|  |Backtracking
 0377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [Python](./Algorithms/0377_Combination_Sum_IV/Python)<br>[Java](./Algorithms/0377_Combination_Sum_IV/Java)|<font color=#F0AD4E>Medium</font>|  |Recursion with Memoization
+0745 | [Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/) | [Python](./Algorithms/0745_Prefix_and_Suffix_Search/Python)|<font color=#D9534F>Hard</font>|  |Trie
 0784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | [Python](./Algorithms/0784_Letter_Case_Permutation/Python)|<font color=#F0AD4E>Medium</font>|  |Backtracking
 0841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | [Python](./Algorithms/0841_Keys_and_Rooms/Python)|<font color=#F0AD4E>Medium</font>|  |
 1510 | [Stone Game IV](https://leetcode.com/problems/stone-game-iv/) | [Python](./Algorithms/1510_Stone_Game_IV/Python)|<font color=#D9534F>Hard</font>|  |Recursion with Memoization
