@@ -65,6 +65,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python](./Algorithms/0283_Move_Zeroes/Python) | <font color=#5CB85C>Easy</font>  |  | Two Pointer
 0284 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) | [Python](./Algorithms/0284_Peeking_Iterator/Python) | <font color=#F0AD4E>Medium</font>  |  |
 0289 | [Game of Life](https://leetcode.com/problems/game-of-life/) | [Python](./Algorithms/0289_Game_of_Life/Python) | <font color=#F0AD4E>Medium</font>  |  |
+0304 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [Python](./Algorithms/0304_Range_Sum_Query_2D_-_Immutable/Python)<br>[Java](./Algorithms/0304_Range_Sum_Query_2D_-_Immutable/Java) | <font color=#F0AD4E>Medium</font>  |  |
 0380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Python](./Algorithms/0380_Insert_Delete_GetRandom_O(1/Python)) | <font color=#F0AD4E>Medium</font>  |  | Hash Set
 0334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [Python](./Algorithms/0334_Increasing_Triplet_Subsequence/Python) | <font color=#F0AD4E>Medium</font>  |  |
 0435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Python](./Algorithms/0435_Non-overlapping_Intervals/Python) | <font color=#F0AD4E>Medium</font>  |  | Stack/Greedy
@@ -88,6 +89,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 1094 | [Car Pooling](https://leetcode.com/problems/car-pooling/) | [Python](./Algorithms/1094_Car_Pooling/Python) |<font color=#F0AD4E>Medium</font>|  |
 1291 | [Sequential Digits](https://leetcode.com/problems/sequential-digits/) | [Python](./Algorithms/1291_Sequential_Digits/Python) |<font color=#F0AD4E>Medium</font> |  |
 1329 | [Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/) | [Python](./Algorithms/1329_Sort_the_Matrix_Diagonally/Python) |<font color=#F0AD4E>Medium</font> |  |Customized Sorting
+1423 | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [Python](./Algorithms/1423_Maximum_Points_You_Can_Obtain_from_Cards/Python)<br>[Java](./Algorithms/1423_Maximum_Points_You_Can_Obtain_from_Cards/Java) |<font color=#F0AD4E>Medium</font> |  |Sliding Window
 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [Python](./Algorithms/1658_Minimum_Operations_to_Reduce_X_to_Zero/Python) |<font color=#F0AD4E>Medium</font> |  |Sliding Window
 1663 | [Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/) | [Python](./Algorithms/1663_Smallest_String_With_A_Given_Numeric_Value/Python) |<font color=#F0AD4E>Medium</font> |  |
 1679 | [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | [Python](./Algorithms/1679_Max_Number_of_K-Sum_Pairs/Python) |<font color=#F0AD4E>Medium</font> |  |Two Pointer
