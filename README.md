@@ -317,6 +317,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0556 | [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | [Python](./Algorithms/0556_Next_Greater_Element_III/Python) | <font color=#F0AD4E>Medium</font>  |  |
 0567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Python](./Algorithms/0567_Permutation_in_String/Python) | <font color=#F0AD4E>Medium</font>  |  |Sliding Window <br> Two Pointer
 0763 | [Partition Labels](https://leetcode.com/problems/partition-labels/) | [Python](./Algorithms/0763_Partition_Labels/Python) | <font color=#F0AD4E>Medium</font>  |  |Two Pointer
+0816 | [Ambiguous Coordinates](https://leetcode.com/problems/ambiguous-coordinates/) | [Python](./Algorithms/0816_Ambiguous_Coordinates/Python)<br>[Java](./Algorithms/0816_Ambiguous_Coordinates/Java) | <font color=#F0AD4E>Medium</font>  |  |
 0820 | [Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/) | [Python](./Algorithms/0820_Short_Encoding_of_Words/Python) | <font color=#F0AD4E>Medium</font>  |  |
 0856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | [Python](./Algorithms/0856_Score_of_Parentheses/Python) | <font color=#F0AD4E>Medium</font>  |  |Stack <br> DFS
 0859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings/) | [Python](./Algorithms/0859_Buddy_Strings/Python) | <font color=#5CB85C>Easy</font> |  |
