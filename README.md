@@ -310,6 +310,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0012 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Python](./Algorithms/0012_Integer_to_Roman/Python)|<font color=#F0AD4E>Medium</font>| |
 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](./Algorithms/0013_Roman_to_Integer/Python)|<font color=#5CB85C>Easy</font>| |
 0017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Python](./Algorithms/0017_Letter_Combinations_of_a_Phone_Number/Python)| <font color=#F0AD4E>Medium</font>   | | BFS/DFS/Backtracking
+0065 | [Valid Number](https://leetcode.com/problems/valid-number/) | [Python](./Algorithms/0065_Valid_Number/Python)|<font color=#D9534F>Hard</font> | | Regex
 0151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Python](./Algorithms/0151_Reverse_Words_in_a_String/Python)| <font color=#F0AD4E>Medium</font>   | | 
 0165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [Python](./Algorithms/0165_Compare_Version_Numbers/Python) | <font color=#F0AD4E>Medium</font>  |  |
 0227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [Python](./Algorithms/0227_Basic_Calculator_II/Python) | <font color=#F0AD4E>Medium</font>  |  |Regex
