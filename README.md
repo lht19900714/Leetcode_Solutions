@@ -325,6 +325,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0820 | [Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/) | [Python](./Algorithms/0820_Short_Encoding_of_Words/Python) | <font color=#F0AD4E>Medium</font>  |  |
 0856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | [Python](./Algorithms/0856_Score_of_Parentheses/Python) | <font color=#F0AD4E>Medium</font>  |  |Stack <br> DFS
 0859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings/) | [Python](./Algorithms/0859_Buddy_Strings/Python) | <font color=#5CB85C>Easy</font> |  |
+0890 | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/) | [Python](./Algorithms/0890_Find_and_Replace_Pattern/Python)<br>[Java](./Algorithms/0890_Find_and_Replace_Pattern/Java) | <font color=#F0AD4E>Medium</font> |  |
 0923 | [3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/) | [Python](./Algorithms/0923_3Sum_With_Multiplicity/Python) |<font color=#F0AD4E>Medium</font>|  |Two Pointer
 1657 | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | [Python](./Algorithms/1657_Determine_if_Two_Strings_Are_Close/Python) | <font color=#F0AD4E>Medium</font>  |  |
 
