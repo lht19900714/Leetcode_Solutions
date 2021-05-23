@@ -148,7 +148,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 |-----|---------------- | --------------- | ------------- |--------------|-----|
 0022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python](./Algorithms/0022_Generate_Parentheses/Python)|<font color=#F0AD4E>Medium</font>|  |Backtracking
 0037 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [Python](./Algorithms/0037_Sudoku_Solver/Python)|<font color=#D9534F>Hard</font>|  |Backtracking
-0051 | [N-Queens](https://leetcode.com/problems/n-queens/) | [Python](./Algorithms/0051_N-Queens/Python)|<font color=#D9534F>Hard</font>|  |Backtracking
+0051 | [N-Queens](https://leetcode.com/problems/n-queens/) | [Python](./Algorithms/0051_N-Queens/Python)<br>[Java](./Algorithms/0051_N-Queens/Java)|<font color=#D9534F>Hard</font>|  |Backtracking
 0052 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [Python](./Algorithms/0052_N-Queens_II/Python)|<font color=#D9534F>Hard</font>|  |Backtracking
 0079 | [Word Search](https://leetcode.com/problems/word-search/) | [Python](./Algorithms/0079_Word_Search/Python)|<font color=#F0AD4E>Medium</font>|  |
 0131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Python](./Algorithms/0131_Palindrome_Partitioning/Python)|<font color=#F0AD4E>Medium</font>|  |Backtracking
