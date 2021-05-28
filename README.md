@@ -95,6 +95,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [Python](./Algorithms/1658_Minimum_Operations_to_Reduce_X_to_Zero/Python) |<font color=#F0AD4E>Medium</font> |  |Sliding Window
 1663 | [Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/) | [Python](./Algorithms/1663_Smallest_String_With_A_Given_Numeric_Value/Python) |<font color=#F0AD4E>Medium</font> |  |
 1679 | [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | [Python](./Algorithms/1679_Max_Number_of_K-Sum_Pairs/Python) |<font color=#F0AD4E>Medium</font> |  |Two Pointer
+1695 | [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | [Python](./Algorithms/1695_Maximum_Erasure_Value/Python)<br>[Java](./Algorithms/1695_Maximum_Erasure_Value/Java) |<font color=#F0AD4E>Medium</font> |  |Two Pointer
 
 <br/>
 <div align="right">
