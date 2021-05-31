@@ -329,6 +329,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings/) | [Python](./Algorithms/0859_Buddy_Strings/Python) | <font color=#5CB85C>Easy</font> |  |
 0890 | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/) | [Python](./Algorithms/0890_Find_and_Replace_Pattern/Python)<br>[Java](./Algorithms/0890_Find_and_Replace_Pattern/Java) | <font color=#F0AD4E>Medium</font> |  |
 0923 | [3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/) | [Python](./Algorithms/0923_3Sum_With_Multiplicity/Python) |<font color=#F0AD4E>Medium</font>|  |Two Pointer
+1268 | [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) | [Python](./Algorithms/1268_Search_Suggestions_System/Python)<br>[Java](./Algorithms/1268_Search_Suggestions_System/Java) |<font color=#F0AD4E>Medium</font>|  |
 1657 | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | [Python](./Algorithms/1657_Determine_if_Two_Strings_Are_Close/Python) | <font color=#F0AD4E>Medium</font>  |  |
 
 
