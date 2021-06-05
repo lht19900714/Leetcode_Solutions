@@ -136,6 +136,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Python](./Algorithms/0210_Course_Schedule_II/Python)|<font color=#F0AD4E>Medium</font>|  |Topological Ordering 
 0310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | [Python](./Algorithms/0310_Minimum_Height_Trees/Python)|<font color=#F0AD4E>Medium</font>|  |Topological Ordering 
 0417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [Python](./Algorithms/0417_Pacific_Atlantic_Water_Flow/Python)|<font color=#F0AD4E>Medium</font>|  |BFS/DFS
+0752 | [Open the Lock](https://leetcode.com/problems/open-the-lock/) | [Python](./Algorithms/0752_Open_the_Lock/Python)<br>[Java](./Algorithms/0752_Open_the_Lock/Java)|<font color=#F0AD4E>Medium</font>|  |BFS
 0994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [Python](./Algorithms/0994_Rotting_Oranges/Python)|<font color=#F0AD4E>Medium</font>|  |BFS
 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [Python](./Algorithms/1091_Shortest_Path_in_Binary_Matrix/Python)|<font color=#F0AD4E>Medium</font>|  |BFS
 1302 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | [Python](./Algorithms/1302_Deepest_Leaves_Sum/Python)<br>[Java](./Algorithms/1302_Deepest_Leaves_Sum/Java)|<font color=#F0AD4E>Medium</font>|  |BFS/DFS
