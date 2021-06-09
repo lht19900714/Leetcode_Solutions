@@ -292,6 +292,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0641 | [Design Circular Deque](https://leetcode.com/problems/design-circular-deque/) | [Python](./Algorithms/0641_Design_Circular_Deque/Python)|<font color=#F0AD4E>Medium</font> | | 
 0933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | [Python](./Algorithms/0933_Number_of_Recent_Calls/Python)|<font color=#5CB85C>Easy</font>| | 
 0948 | [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) | [Python](./Algorithms/0948_Bag_of_Tokens/Python) | <font color=#F0AD4E>Medium</font>  |  | 
+1649 | [Jump Game VI](https://leetcode.com/problems/jump-game-vi/) | [Python](./Algorithms/1696_Jump_Game_VI/Python)<br>[Java](./Algorithms/1696_Jump_Game_VI/Java) | <font color=#F0AD4E>Medium</font>  |  | Deque
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
