@@ -81,6 +81,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [Python](./Algorithms/0621_Task_Scheduler/Python) | <font color=#F0AD4E>Medium</font>  |  | Math
 0665 | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | [Python](./Algorithms/0665_Non-decreasing_Array/Python)<br>[Java](./Algorithms/0665_Non-decreasing_Array/Java) | <font color=#F0AD4E>Medium</font>  |  | Two Pointer
 0713 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | [Python](./Algorithms/0713_Subarray_Product_Less_Than_K/Python) | <font color=#F0AD4E>Medium</font>  |  | Two Pointer
+0795 | [Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/) | [Python](./Algorithms/0795_Number_of_Subarrays_with_Bounded_Maximum/Python) <br>[Java](./Algorithms/0795_Number_of_Subarrays_with_Bounded_Maximum/Java)| <font color=#F0AD4E>Medium</font>  |  | Two Pointer
 0849 | [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/) | [Python](./Algorithms/0849_Maximize_Distance_to_Closest_Person/Python) | <font color=#F0AD4E>Medium</font>  |  | Two Pointer
 0870 | [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/) | [Python](./Algorithms/0870_Advantage_Shuffle/Python) | <font color=#F0AD4E>Medium</font>  |  |
 0880 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/) | [Python](./Algorithms/0880_Decoded_String_at_Index/Python) | <font color=#F0AD4E>Medium</font>  |  |
@@ -152,7 +153,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 ## Depth-First Search
 |  #  | Title           |  Solution       | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | ------------- |--------------|-----|
-0022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python](./Algorithms/0022_Generate_Parentheses/Python)|<font color=#F0AD4E>Medium</font>|  |Backtracking
+0022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python](./Algorithms/0022_Generate_Parentheses/Python)<br>[Java](./Algorithms/0022_Generate_Parentheses/Java)|<font color=#F0AD4E>Medium</font>|  |Backtracking
 0037 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [Python](./Algorithms/0037_Sudoku_Solver/Python)|<font color=#D9534F>Hard</font>|  |Backtracking
 0051 | [N-Queens](https://leetcode.com/problems/n-queens/) | [Python](./Algorithms/0051_N-Queens/Python)<br>[Java](./Algorithms/0051_N-Queens/Java)|<font color=#D9534F>Hard</font>|  |Backtracking
 0052 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [Python](./Algorithms/0052_N-Queens_II/Python)<br>[Java](./Algorithms/0052_N-Queens_II/Java)|<font color=#D9534F>Hard</font>|  |Backtracking
