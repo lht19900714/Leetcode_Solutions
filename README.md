@@ -52,7 +52,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0059 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Python](./Algorithms/0059_Spiral_Matrix_II/Python) |<font color=#F0AD4E>Medium</font>|  |
 0066 | [Plus One](https://leetcode.com/problems/plus-one/) | [Python](./Algorithms/0066_Plus_One/Python) |<font color=#5CB85C>Easy</font> |  | 
 0080 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Python](./Algorithms/0080_Remove_Duplicates_from_Sorted_Array_II/Python) |<font color=#F0AD4E>Medium</font>|  |Two Pointer
-0118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Python](./Algorithms/0118_Pascal's_Triangle/Python) |<font color=#5CB85C>Easy</font> |  | 
+0118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Python](./Algorithms/0118_Pascal's_Triangle/Python)<br>[Java](./Algorithms/0118_Pascal's_Triangle/Java) |<font color=#5CB85C>Easy</font> |  | 
 0119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Python](./Algorithms/0119_Pascal's_Triangle_II/Python) |<font color=#5CB85C>Easy</font> |  |
 0128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Python](./Algorithms/0128_Longest_Consecutive_Sequence/Python)<br>[Java](./Algorithms/0128_Longest_Consecutive_Sequence/Java) |<font color=#F0AD4E>Medium</font>|  |
 0134 | [Gas Station](https://leetcode.com/problems/gas-station/) | [Python](./Algorithms/0134_Gas_Station/Python) |<font color=#F0AD4E>Medium</font> |  |
