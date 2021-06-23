@@ -261,6 +261,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Python](./Algorithms/0024_Swap_Nodes_in_Pairs/Python)| <font color=#F0AD4E>Medium</font>| | 
 0061 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Python](./Algorithms/0061_Rotate_List/Python)| <font color=#F0AD4E>Medium</font> | | 
 0086 | [Partition List](https://leetcode.com/problems/partition-list/) | [Python](./Algorithms/0086_Partition_List/Python)<br>[Java](./Algorithms/0086_Partition_List/Java)| <font color=#F0AD4E>Medium</font> | | 
+0092 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Python](./Algorithms/0092_Reverse_Linked_List_II/Python)<br>[Java](./Algorithms/0092_Reverse_Linked_List_II/Java)| <font color=#F0AD4E>Medium</font> | | 
 0138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Python](./Algorithms/0138_Copy_List_with_Random_Pointer/Python)| <font color=#F0AD4E>Medium</font> | | 
 0148 | [Sort List](https://leetcode.com/problems/sort-list/) | [Python](./Algorithms/0148_Sort_List/Python)| <font color=#F0AD4E>Medium</font> | | 
 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python](./Algorithms/0141_Linked_List_Cycle/Python)| <font color=#5CB85C>Easy</font> | | Two Pointer
