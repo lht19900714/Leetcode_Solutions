@@ -91,6 +91,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0916 | [Word Subsets](https://leetcode.com/problems/word-subsets/) | [Python](./Algorithms/0916_Word_Subsets/Python) | <font color=#F0AD4E>Medium</font>  |  |
 0973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [Python](./Algorithms/0973_K_Closest_Points_to_Origin/Python) | <font color=#F0AD4E>Medium</font>  |  | Customized Sorting
 0949 | [Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | [Python](./Algorithms/0949_Largest_Time_for_Given_Digits/Python) |<font color=#5CB85C>Easy</font>|  |
+1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [Python](./Algorithms/1004_Max_Consecutive_Ones_III/Python)<br>[Java](./Algorithms/1004_Max_Consecutive_Ones_III/Java)|<font color=#F0AD4E>Medium</font> |  | Two Pointer
 1010 | [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | [Python](./Algorithms/1010_Pairs_of_Songs_With_Total_Durations_Divisible_by_60/Python) |<font color=#F0AD4E>Medium</font>|  |
 1094 | [Car Pooling](https://leetcode.com/problems/car-pooling/) | [Python](./Algorithms/1094_Car_Pooling/Python) |<font color=#F0AD4E>Medium</font>|  |
 1291 | [Sequential Digits](https://leetcode.com/problems/sequential-digits/) | [Python](./Algorithms/1291_Sequential_Digits/Python) |<font color=#F0AD4E>Medium</font> |  |
