@@ -125,7 +125,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)| [Python](./Algorithms/0295_Find_Median_from_Data_Stream/Python) |<font color=#D9534F>Hard</font> | |  
 0367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)| [Python](./Algorithms/0367_Valid_Perfect_Square/Python) |<font color=#5CB85C>Easy</font>| |  
 0436 | [Find Right Interval](https://leetcode.com/problems/find-right-interval/)| [Python](./Algorithms/0436_Find_Right_Interval/Python) |<font color=#F0AD4E>Medium</font> | |  
-0658 | [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)| [Python](./Algorithms/0658_Find_K_Closest_Elements/Python) |<font color=#F0AD4E>Medium</font> | |  
+0658 | [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)| [Python](./Algorithms/0658_Find_K_Closest_Elements/Python)<br>[Java](./Algorithms/0658_Find_K_Closest_Elements/Java) |<font color=#F0AD4E>Medium</font> | | Customized Sorting
 1283 | [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)| [Python](./Algorithms/1283_Find_the_Smallest_Divisor_Given_a_Threshold/Python) |<font color=#F0AD4E>Medium</font> | |  
 
 <br/>
