@@ -41,6 +41,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 |-----|------------------ | ---------------- | -------------- |---------------|------|
 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python](./Algorithms/0011_Container_With_Most_Water/Python) |<font color=#F0AD4E>Medium</font> |  | Two Pointer
 0015 | [3Sum](https://leetcode.com/problems/3sum/) | [Python](./Algorithms/0015_3Sum/Python) |<font color=#F0AD4E>Medium</font> |  | Two Pointer
+0016 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Python](./Algorithms/0016_3Sum_Closest/Python)<br>[Java](./Algorithms/0016_3Sum_Closest/Java) |<font color=#F0AD4E>Medium</font> |  | Two Pointer
 0018 | [4Sum](https://leetcode.com/problems/4sum/) | [Python](./Algorithms/0018_4Sum/Python) |<font color=#F0AD4E>Medium</font>|  |
 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](./Algorithms/0026_Remove_Duplicates_from_Sorted_Array/Python) |<font color=#5CB85C>Easy</font>|  |Two Pointer
 0027 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Python](./Algorithms/0027_Remove_Element/Python) |<font color=#5CB85C>Easy</font>|  | Two Pointer
