@@ -166,6 +166,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0051 | [N-Queens](https://leetcode.com/problems/n-queens/) | [Python](./Algorithms/0051_N-Queens/Python)<br>[Java](./Algorithms/0051_N-Queens/Java)|<font color=#D9534F>Hard</font>|  |Backtracking
 0052 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [Python](./Algorithms/0052_N-Queens_II/Python)<br>[Java](./Algorithms/0052_N-Queens_II/Java)|<font color=#D9534F>Hard</font>|  |Backtracking
 0079 | [Word Search](https://leetcode.com/problems/word-search/) | [Python](./Algorithms/0079_Word_Search/Python)|<font color=#F0AD4E>Medium</font>|  |
+0090 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | [Python](./Algorithms/0090_Subsets_II/Python)<br>[Java](./Algorithms/0090_Subsets_II/Java)|<font color=#F0AD4E>Medium</font>|  |Backtracking
 0131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Python](./Algorithms/0131_Palindrome_Partitioning/Python)|<font color=#F0AD4E>Medium</font>|  |Backtracking
 0200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python](./Algorithms/0200_Number_of_Islands/Python)|<font color=#F0AD4E>Medium</font>|  |DFS/BFS
 0212 | [Word Search II](https://leetcode.com/problems/word-search-ii/) | [Python](./Algorithms/0212_Word_Search_II/Python)|<font color=#D9534F>Hard</font>|  |DFS/Backtracking/Trie
