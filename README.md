@@ -179,6 +179,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0745 | [Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/) | [Python](./Algorithms/0745_Prefix_and_Suffix_Search/Python)|<font color=#D9534F>Hard</font>|  |Trie
 0784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | [Python](./Algorithms/0784_Letter_Case_Permutation/Python)|<font color=#F0AD4E>Medium</font>|  |Backtracking
 0841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | [Python](./Algorithms/0841_Keys_and_Rooms/Python)|<font color=#F0AD4E>Medium</font>|  |
+0877 | [Stone Game](https://leetcode.com/problems/stone-game/) | [Python](./Algorithms/0877_Stone_Game/Python)<br>[Java](./Algorithms/0877_Stone_Game/Java)|<font color=#F0AD4E>Medium</font>|  |
 1510 | [Stone Game IV](https://leetcode.com/problems/stone-game-iv/) | [Python](./Algorithms/1510_Stone_Game_IV/Python)|<font color=#D9534F>Hard</font>|  |Recursion with Memoization
 
 <br/>
