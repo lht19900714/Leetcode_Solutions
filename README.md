@@ -246,6 +246,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 |  #  | Title             |  Solution        | Difficulty     | Tag           |  Note| 
 |-----|------------------ | ---------------- | -------------- |---------------|------|
 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./Algorithms/0001_Two_Sum/Python)| <font color=#5CB85C>Easy</font> | | 
+0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python](./Algorithms/0049_Group_Anagrams/Python) <br> [Java](./Algorithms/0049_Group_Anagrams/Java) | <font color=#F0AD4E>Medium</font> | |
 0076 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Python](./Algorithms/0076_Minimum_Window_Substring/Python)| <font color=#D9534F>Hard</font>| | Sliding Window
 0146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Python](./Algorithms/0146_LRU_Cache/Python)| <font color=#F0AD4E>Medium</font>  | | 
 0290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [Python](./Algorithms/0290_Word_Pattern/Python)| <font color=#5CB85C>Easy</font> | |
