@@ -257,6 +257,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0677 | [Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/) | [Python](./Algorithms/0677_Map_Sum_Pairs/Python)<br>[Java](./Algorithms/0677_Map_Sum_Pairs/Java)| <font color=#F0AD4E>Medium</font>  | |
 0692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | [Python](./Algorithms/0692_Top_K_Frequent_Words/Python)| <font color=#F0AD4E>Medium</font> | | Customized Sort 
 0953 | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [Python](./Algorithms/0953_Verifying_an_Alien_Dictionary/Python)| <font color=#5CB85C>Easy</font> | | Customized Sort 
+0954 | [Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/) | [Python](./Algorithms/0954_Array_of_Doubled_Pairs/Python) <br> [Java](./Algorithms/0954_Array_of_Doubled_Pairs/Java) | <font color=#F0AD4E>Medium</font> | |
 0966 | [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/) | [Python](./Algorithms/0966_Vowel_Spellchecker/Python)| <font color=#F0AD4E>Medium</font> | |
 
 <br/>
