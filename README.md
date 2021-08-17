@@ -451,6 +451,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 1032 | [Stream of Characters](https://leetcode.com/problems/stream-of-characters/)| [Python](./Algorithms/1032_Stream_of_Characters/Python) |<font color=#D9534F>Hard</font> | | Trie
 1305 | [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)| [Python](./Algorithms/1305_All_Elements_in_Two_Binary_Search_Trees/Python) |<font color=#F0AD4E>Medium</font>| |
 1379 | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)| [Python](./Algorithms/1379_Find_a_Corresponding_Node_of_a_Binary_Tree_in_a_Clone_of_That_Tree/Python) |<font color=#F0AD4E>Medium</font>| |
+1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | [Python](./Algorithms/1448_Count_Good_Nodes_in_Binary_Tree/Python) <br> [Java](./Algorithms/1448_Count_Good_Nodes_in_Binary_Tree/Java) | <font color=#F0AD4E>Medium</font> | |
 1457 | [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)| [Python](./Algorithms/1457_Pseudo-Palindromic_Paths_in_a_Binary_Tree/Python) |<font color=#F0AD4E>Medium</font>| |
 1721 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)| [Python](./Algorithms/1721_Swapping_Nodes_in_a_Linked_List/Python) |<font color=#F0AD4E>Medium</font>| |
 
