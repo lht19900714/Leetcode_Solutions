@@ -227,6 +227,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0983 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | [Python](./Algorithms/0983_Minimum_Cost_For_Tickets/Python)<br>[Java](./Algorithms/0983_Minimum_Cost_For_Tickets/Java) | <font color=#F0AD4E>Medium</font>  | | 
 1048 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | [Python](./Algorithms/1048_Longest_String_Chain/Python)<br>[Java](./Algorithms/1048_Longest_String_Chain/Java) | <font color=#F0AD4E>Medium</font>  | | 
 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Python](./Algorithms/1143_Longest_Common_Subsequence/Python) | <font color=#F0AD4E>Medium</font>  | | 
+1235 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | [Python](./Algorithms/1235_Maximum_Profit_in_Job_Scheduling/Python) <br> [Java](./Algorithms/1235_Maximum_Profit_in_Job_Scheduling/Java) | <font color=#D9534F>Hard</font> | |
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
