@@ -410,7 +410,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0082 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Python](./Algorithms/0082_Remove_Duplicates_from_Sorted_List_II/Python)| <font color=#F0AD4E>Medium</font> | |
 0083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python](./Algorithms/0083_Remove_Duplicates_from_Sorted_List/Python)| <font color=#5CB85C>Easy</font> | |
 0094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Python](./Algorithms/0094_Binary_Tree_Inorder_Traversal/Python)| <font color=#F0AD4E>Medium</font> | |
-0095 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [Python](./Algorithms/0095_Unique_Binary_Search_Trees_II/Python)| <font color=#F0AD4E>Medium</font> | |
+0095 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [Python](./Algorithms/0095_Unique_Binary_Search_Trees_II/Python)<br>[Java](./Algorithms/0095_Unique_Binary_Search_Trees_II/Java)| <font color=#F0AD4E>Medium</font> | |
 0098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Python](./Algorithms/0098_Validate_Binary_Search_Tree/Python)| <font color=#F0AD4E>Medium</font> | |
 0099 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | [Python](./Algorithms/0099_Recover_Binary_Search_Tree/Python)| <font color=#D9534F>Hard</font> | |
 0100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Python](./Algorithms/0100_Same_Tree/Python)| <font color=#5CB85C>Easy</font> | |BFS  
