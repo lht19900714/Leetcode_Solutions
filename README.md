@@ -288,7 +288,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Python](./Algorithms/0142_Linked_List_Cycle_II/Python)| <font color=#F0AD4E>Medium</font> | | Two Pointer
 0143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [Python](./Algorithms/0143_Reorder_List/Python)| <font color=#F0AD4E>Medium</font> | | 
 0147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [Python](./Algorithms/0147_Insertion_Sort_List/Python)| <font color=#F0AD4E>Medium</font> | | 
-0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](./Algorithms/0206_Reverse_Linked_List/Python)| <font color=#5CB85C>Easy</font> | | 
+0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](./Algorithms/0206_Reverse_Linked_List/Python)<br>[Java](./Algorithms/0206_Reverse_Linked_List/Java)| <font color=#5CB85C>Easy</font> | | 
 0234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Python](./Algorithms/0234_Palindrome_Linked_List/Python)| <font color=#5CB85C>Easy</font> | | 
 0382 | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | [Python](./Algorithms/0382_Linked_List_Random_Node/Python)| <font color=#F0AD4E>Medium</font> | | 
 0445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [Python](./Algorithms/0445_Add_Two_Numbers_II/Python)| <font color=#F0AD4E>Medium</font> | | 
