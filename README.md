@@ -185,6 +185,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | [Python](./Algorithms/0784_Letter_Case_Permutation/Python)|<font color=#F0AD4E>Medium</font>|  |Backtracking
 0841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | [Python](./Algorithms/0841_Keys_and_Rooms/Python)|<font color=#F0AD4E>Medium</font>|  |
 0877 | [Stone Game](https://leetcode.com/problems/stone-game/) | [Python](./Algorithms/0877_Stone_Game/Python)<br>[Java](./Algorithms/0877_Stone_Game/Java)|<font color=#F0AD4E>Medium</font>|  |
+1239 | [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [Python](./Algorithms/1239_Maximum_Length_of_a_Concatenated_String_with_Unique_Characters/Python) <br> [Java](./Algorithms/1239_Maximum_Length_of_a_Concatenated_String_with_Unique_Characters/Java) | <font color=#F0AD4E>Medium</font> | |Backtracking
 1510 | [Stone Game IV](https://leetcode.com/problems/stone-game-iv/) | [Python](./Algorithms/1510_Stone_Game_IV/Python)|<font color=#D9534F>Hard</font>|  |Recursion with Memoization
 
 <br/>
