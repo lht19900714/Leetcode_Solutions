@@ -176,7 +176,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0090 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | [Python](./Algorithms/0090_Subsets_II/Python)<br>[Java](./Algorithms/0090_Subsets_II/Java)|<font color=#F0AD4E>Medium</font>|  |Backtracking
 0131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Python](./Algorithms/0131_Palindrome_Partitioning/Python)|<font color=#F0AD4E>Medium</font>|  |Backtracking
 0200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python](./Algorithms/0200_Number_of_Islands/Python)|<font color=#F0AD4E>Medium</font>|  |DFS/BFS
-0212 | [Word Search II](https://leetcode.com/problems/word-search-ii/) | [Python](./Algorithms/0212_Word_Search_II/Python)|<font color=#D9534F>Hard</font>|  |DFS/Backtracking/Trie
+0212 | [Word Search II](https://leetcode.com/problems/word-search-ii/) | [Python](./Algorithms/0212_Word_Search_II/Python)<br>[Java](./Algorithms/0212_Word_Search_II/Java)|<font color=#D9534F>Hard</font>|  |DFS/Backtracking/Trie
 0216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [Python](./Algorithms/0216_Combination_Sum_III/Python)|<font color=#F0AD4E>Medium</font>|  |Backtracking
 0377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [Python](./Algorithms/0377_Combination_Sum_IV/Python)<br>[Java](./Algorithms/0377_Combination_Sum_IV/Java)|<font color=#F0AD4E>Medium</font>|  |Recursion with Memoization
 0473 | [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/) | [Python](./Algorithms/0473_Matchsticks_to_Square/Python)<br>[Java](./Algorithms/0473_Matchsticks_to_Square/Java)|<font color=#F0AD4E>Medium</font>|  |
