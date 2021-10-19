@@ -388,7 +388,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | [Python](./Algorithms/0316_Remove_Duplicate_Letters/Python)|<font color=#F0AD4E>Medium</font> |  | 
 0394 | [Decode String](https://leetcode.com/problems/decode-string/) | [Python](./Algorithms/0394_Decode_String/Python)|<font color=#F0AD4E>Medium</font> |  | 
 0456 | [132 Pattern](https://leetcode.com/problems/132-pattern/) | [Python](./Algorithms/0456_132_Pattern/Python)|<font color=#F0AD4E>Medium</font> |  | 
-0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Python](./Algorithms/0496_Next_Greater_Element_I/Python)| <font color=#5CB85C>Easy</font>   |  | 
+0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Python](./Algorithms/0496_Next_Greater_Element_I/Python)[Java](./Algorithms/0496_Next_Greater_Element_I/Java)| <font color=#5CB85C>Easy</font>   |  | 
 0503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [Python](./Algorithms/0503_Next_Greater_Element_II/Python)| <font color=#F0AD4E>Medium</font>   |  | 
 0735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | [Python](./Algorithms/0735_Asteroid_Collision/Python)| <font color=#F0AD4E>Medium</font>   |  | 
 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Python](./Algorithms/0739_Daily_Temperatures/Python)| <font color=#F0AD4E>Medium</font>   |  | 
