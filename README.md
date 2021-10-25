@@ -385,6 +385,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 0071 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [Python](./Algorithms/0071_Simplify_Path/Python) |<font color=#F0AD4E>Medium</font> |  | 
 0084 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Python](./Algorithms/0084_Largest_Rectangle_in_Histogram/Python)|<font color=#D9534F>Hard</font>|  | Monotonic stack
 0150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Python](./Algorithms/0150_Evaluate_Reverse_Polish_Notation/Python)<br>[Java](./Algorithms/0150_Evaluate_Reverse_Polish_Notation/Java)|<font color=#F0AD4E>Medium</font>|  | 
+0155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Python](./Algorithms/0155_Min_Stack/Python) <br> [Java](./Algorithms/0155_Min_Stack/Java) | <font color=#5CB85C>Easy</font> | |
 0232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Java](./Algorithms/0232_Implement_Queue_using_Stacks/Java)|<font color=#5CB85C>Easy</font> |  |
 0316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | [Python](./Algorithms/0316_Remove_Duplicate_Letters/Python)|<font color=#F0AD4E>Medium</font> |  | 
 0394 | [Decode String](https://leetcode.com/problems/decode-string/) | [Python](./Algorithms/0394_Decode_String/Python)|<font color=#F0AD4E>Medium</font> |  | 
