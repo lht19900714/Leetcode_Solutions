@@ -201,6 +201,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 |-----|---------------- | --------------- | ------------- |--------------|-----|
 0005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](./Algorithms/0005_Longest_Palindromic_Substring/Python) |<font color=#F0AD4E>Medium</font> | | Two Pointer
 0055 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Python](./Algorithms/0055_Jump_Game/Python) |<font color=#F0AD4E>Medium</font>  | |
+0062 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Python](./Algorithms/0062_Unique_Paths/Python) <br> [Java](./Algorithms/0062_Unique_Paths/Java) | <font color=#F0AD4E>Medium</font> | |
 0063 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Python](./Algorithms/0063_Unique_Paths_II/Python)<br>[Java](./Algorithms/0063_Unique_Paths_II/Java) |<font color=#F0AD4E>Medium</font>| |
 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](./Algorithms/0070_Climbing_Stairs/Python) |<font color=#5CB85C>Easy</font> | | Recursion with Memoization 
 0091 | [Decode Ways](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./Algorithms/0091_Decode_Ways/Python) |<font color=#F0AD4E>Medium</font>| | Recursion with Memoization 
