@@ -247,7 +247,7 @@ As a non-CS background programmer. LeetCode is a great website to sharpen my pro
 |  #  | Title           |  Solution       | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | ------------- |--------------|-----|
 0332 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | [Python](./Algorithms/0332_Reconstruct_Itinerary/Python) | <font color=#F0AD4E>Medium</font> | |DFS
-0797 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | [Python](./Algorithms/0797_All_Paths_From_Source_to_Target/Python) | <font color=#F0AD4E>Medium</font> | | BFS/DFS
+0797 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | [Python](./Algorithms/0797_All_Paths_From_Source_to_Target/Python) <br> [Java](./Algorithms/0797_All_Paths_From_Source_to_Target/Java)| <font color=#F0AD4E>Medium</font> | | BFS/DFS
 0863 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)| [Python](./Algorithms/0863_All_Nodes_Distance_K_in_Binary_Tree/Python) |<font color=#F0AD4E>Medium</font> | |
 <br/>
 <div align="right">
